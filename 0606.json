@@ -1,16 +1,5 @@
 {
   "sites": [
-    
-    {
-      "key": "csp_biubiu_骚火电影",
-      "name": "🥒骚火电影(XB)022/5/29更新接口",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://fj365.ml/bb/骚火电影.json"
-    },
     {
       "key": "csp_DiDuan",
       "name": "🐼低端影视(SP)",
@@ -119,6 +108,315 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://github.com/YuanHsing/OneClickRun/raw/master/xpath/gaze.json"
+    },
+    {
+      "key": "csp_biubiu_骚火电影",
+      "name": "🥒骚火电影(XB)022/5/29更新接口",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/骚火电影.json"
+    },
+    {
+      "key": "csp_biubiu_COKEMV",
+      "name": "🥒COKEMV(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/COKEMV.json"
+    },
+    {
+      "key": "csp_biubiu_真不卡影院(不支持搜索)",
+      "name": "🥒真不卡影院(不支持搜索)(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/真不卡影院(不支持搜索).json"
+    },
+    {
+      "key": "csp_biubiu_555资源",
+      "name": "🥒555资源(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/555资源.json"
+    },
+    {
+      "key": "csp_biubiu_555电影",
+      "name": "🥒555电影(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/555电影.json"
+    },
+    {
+      "key": "csp_biubiu_影视工厂",
+      "name": "🥒影视工厂(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/影视工厂.json"
+    },
+    {
+      "key": "csp_biubiu_蓝光影视",
+      "name": "🥒蓝光影视(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/蓝光影视.json"
+    },
+    {
+      "key": "csp_appysv2_nanfuyy",
+      "name": "南府影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://iapp.nfuxs.club/nfuxs.php/v1.vod"
+    },
+    {
+      "key": "csp_xpath_jpys",
+      "name": "极品影视(XPF)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://fj365.ml/6/jpys.json"
+    },
+    {
+      "key": "wabc(腾讯直采)",
+      "name": "wabc(腾讯直采)(官)",
+      "type": 1,
+      "api": "https://wabc.ml/mao/1.php/provide/vod/",
+      "playUrl": "parse:parwix1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "千寻时光",
+      "name": "千寻时光(聚)",
+      "type": 1,
+      "api": "http://wy.dqyhg.cn/api.php/provide/vod/",
+      "playUrl": "parse:parwix1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "兔子窝",
+      "name": "兔子窝(聚)",
+      "type": 1,
+      "api": "http://cj.huimaojia.com:12345/api.php/provide/vod/",
+      "playUrl": "parse:parwix1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "快看客栈",
+      "name": "快看客栈(聚)",
+      "type": 1,
+      "api": "https://www.vp1127.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_xpath_pianba",
+      "name": "片吧影院(XPMac)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/6/pianba.json"
+    },
+    {
+      "key": "csp_xpath_duboku",
+      "name": "独播库(XPMac)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/6/duboku2.json"
+    },
+    {
+      "key": "csp_biubiu_厂长资源-蓝光",
+      "name": "🥒厂长资源-蓝光(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/厂长资源-蓝光.json"
+    },
+    {
+      "key": "csp_biubiu_剧白白-蓝光",
+      "name": "🥒剧白白-蓝光(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/剧白白-蓝光.json"
+    },
+    {
+      "key": "csp_biubiu_在线之家",
+      "name": "🥒在线之家(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/在线之家.json"
+    },
+    {
+      "key": "csp_biubiu_饭团影院",
+      "name": "🥒饭团影院(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/饭团影院.json"
+    },
+    {
+      "key": "csp_biubiu_双十电影",
+      "name": "🥒双十电影(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/双十电影.json"
+    },
+    {
+      "key": "csp_biubiu_莫扎兔",
+      "name": "🥒莫扎兔(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/莫扎兔.json"
+    },
+    {
+      "key": "csp_biubiu_LIBVIO",
+      "name": "🥒LIBVIO(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/LIBVIO.json"
+    },
+    {
+      "key": "csp_biubiu_周末电影",
+      "name": "🥒周末电影(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/周末电影.json"
+    },
+    {
+      "key": "csp_biubiu_9亿资源",
+      "name": "🥒9亿资源(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/9亿资源.json"
+    },
+    {
+      "key": "csp_biubiu_天空资源",
+      "name": "🥒天空资源(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/天空资源.json"
+    },
+    {
+      "key": "csp_biubiu_完美看看影视",
+      "name": "🥒完美看看影视(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/完美看看影视.json"
+    },
+    {
+      "key": "csp_biubiu_达达龟",
+      "name": "🥒达达龟(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/达达龟.json"
+    },
+    {
+      "key": "csp_biubiu_乐猪影视",
+      "name": "🥒乐猪影视(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/乐猪影视.json"
+    },
+    {
+      "key": "csp_biubiu_口袋影院",
+      "name": "🥒口袋影院(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/口袋影院.json"
+    },
+    {
+      "key": "csp_biubiu_黑洞影视",
+      "name": "🥒黑洞影视(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/黑洞影视.json"
+    },
+    {
+      "key": "csp_biubiu_神马影视",
+      "name": "🥒神马影视(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://fj365.ml/bb/神马影视.json"
     },
     {
       "key": "快播云",
@@ -434,8 +732,8 @@
       ]
     },
     {
-      "key": "csp_SP_77",
-      "name": "七七（爬虫）",
+      "key": "csp_77",
+      "name": "77(SP)",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -7465,5 +7763,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "http://fj365.ml/bb/xb.txt?raw=true"
+  "spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar"
 }
