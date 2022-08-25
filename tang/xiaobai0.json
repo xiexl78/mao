@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "360",
-      "name": "🎾360",
+      "name": "🎾360(SP)",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -10,8 +10,8 @@
       "filterable": 1
     },
     {
-      "key": "Kuaikan",
-      "name": "🎈快看",
+      "key": "快看影视",
+      "name": "🐞快看影视",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -19,8 +19,35 @@
       "filterable": 1
     },
     {
-      "key": "LiteApple",
-      "name": "🍎小苹果",
+      "key": "KanSJ_spider",
+      "name": "🐞看视界",
+      "type": 3,
+      "api": "csp_KanSJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Lezhu_spider",
+      "name": "🐞乐猪影视",
+      "type": 3,
+      "api": "csp_Lezhu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Smdyy_spider",
+      "name": "🐞神马影视",
+      "type": 3,
+      "api": "csp_Smdyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_LiteApple",
+      "name": "🍎小苹果(SP)",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -29,9 +56,54 @@
     },
     {
       "key": "七七",
-      "name": "👒七七",
+      "name": "👒七七(SP)",
       "type": 3,
       "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "追剧喵",
+      "name": "🐞追剧喵",
+      "type": 3,
+      "api": "csp_ZJMiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Ekan_spider",
+      "name": "🐞Ekan",
+      "type": 3,
+      "api": "csp_Ekan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "3EDY",
+      "name": "🐞3EDY(EXO)",
+      "type": 3,
+      "api": "csp_EEEDY",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Wmkk",
+      "name": "🐞完美看看",
+      "type": 3,
+      "api": "csp_Wmkk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "在线之家",
+      "name": "🐞在线之家",
+      "type": 3,
+      "api": "csp_Zxzj",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -48,7 +120,7 @@
     },
     {
       "key": "奈落影院",
-      "name": "🐼奈落影院",
+      "name": "🐼奈落影院(SP)",
       "type": 3,
       "api": "csp_Newfii",
       "searchable": 1,
@@ -57,7 +129,7 @@
     },
     {
       "key": "在线之家",
-      "name": "🐼在线之家",
+      "name": "🐼在线之家(SP)",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -66,7 +138,7 @@
     },
     {
       "key": "小宝影院",
-      "name": "🐼小宝影院",
+      "name": "🐼小宝影院(SP)",
       "type": 3,
       "api": "csp_Xiaoh",
       "searchable": 1,
@@ -75,7 +147,7 @@
     },
     {
       "key": "Libvio",
-      "name": "🐼Libvio",
+      "name": "🐼Libvio(SP)",
       "type": 3,
       "api": "csp_Lib",
       "searchable": 1,
@@ -84,7 +156,7 @@
     },
     {
       "key": "Auete",
-      "name": "🐼Auete",
+      "name": "🐼Auete(SP)",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -93,12 +165,111 @@
     },
     {
       "key": "Cokemv",
-      "name": "🐼Cokemv",
+      "name": "🐼Cokemv(SP)",
       "type": 3,
       "api": "csp_Cokemv",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "csp_CZSPP",
+      "name": "🐞厂长资源",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_Buka",
+      "name": "🐞真不卡(SP)",
+      "type": 3,
+      "api": "csp_Buka",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_DiDuan",
+      "name": "🐞低端影视",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_DY1990",
+      "name": "🐞九零影视(SP)",
+      "type": 3,
+      "api": "csp_DY1990",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "🐞两个BT(SP)",
+      "type": 3,
+      "api": "csp_Bttoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_BBB",
+      "name": "🅱哔哩哔哩(SP)",
+      "type": 3,
+      "api": "csp_BBB",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_n0ys",
+      "name": "💥1090影视(SP)",
+      "type": 3,
+      "api": "csp_N0ys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Mjxq",
+      "name": "美剧星球(SP)",
+      "type": 3,
+      "api": "csp_Mjxq",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "spider_IKan",
+      "name": "💖爱看(SP)",
+      "type": 3,
+      "api": "csp_IKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_DY1990",
+      "name": "🐼1990电影(SP)",
+      "type": 3,
+      "api": "csp_DY1990",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_GitCafe",
+      "name": "🦊小纸条(SP)",
+      "type": 3,
+      "api": "csp_GitCafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "csp_biubiu_ysgc",
@@ -108,7 +279,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/ysgc.bmp"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/影视工厂.json"
     },
     {
       "key": "csp_biubiu_555",
@@ -118,7 +289,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/555.bmp"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/555.bmp"
     },
     {
       "key": "csp_biubiu_lezhu",
@@ -128,7 +299,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/lezhutv.bmp"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/lezhutv.bmp"
     },
     {
       "key": "789看片",
@@ -138,7 +309,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/789ba.bmp"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/789ba.bmp"
     },
     {
       "key": "Gimy",
@@ -148,7 +319,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/gimy.bmp"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/gimy.bmp"
     },
     {
       "key": "Age动漫",
@@ -158,7 +329,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/agefans.bmp"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/agefans.bmp"
     },
     {
       "key": "300看世界",
@@ -207,7 +378,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/厂长资源-蓝光.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/厂长资源-蓝光.json"
     },
     {
       "key": "csp_biubiu_特狗影视",
@@ -217,7 +388,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/特狗影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/特狗影视.json"
     },
     {
       "key": "csp_biubiu_喜鹊视频",
@@ -227,7 +398,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/喜鹊视频.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/喜鹊视频.json"
     },
     {
       "key": "csp_biubiu_瓜皮TV",
@@ -237,7 +408,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/瓜皮TV.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/瓜皮TV.json"
     },
     {
       "key": "csp_biubiu_真的卡影院",
@@ -247,7 +418,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/真的卡影院.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/真的卡影院.json"
     },
     {
       "key": "csp_biubiu_荣耀Glory",
@@ -257,7 +428,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/荣耀Glory.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/荣耀Glory.json"
     },
     {
       "key": "csp_biubiu_87影院",
@@ -267,7 +438,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/87影院.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/87影院.json"
     },
     {
       "key": "csp_biubiu_蓝光影院",
@@ -277,7 +448,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/蓝光影院.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/蓝光影院.json"
     },
     {
       "key": "csp_biubiu_干饭影视",
@@ -287,7 +458,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/干饭影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/干饭影视.json"
     },
     {
       "key": "csp_biubiu_虚拟影院",
@@ -297,7 +468,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/虚拟影院.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/虚拟影院.json"
     },
     {
       "key": "csp_biubiu_OmoFun动漫",
@@ -307,7 +478,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/OmoFun动漫.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/OmoFun动漫.json"
     },
     {
       "key": "csp_biubiu_去看吧",
@@ -317,7 +488,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/去看吧.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/去看吧.json"
     },
     {
       "key": "csp_biubiu_次元城",
@@ -327,7 +498,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/次元城.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/次元城.json"
     },
     {
       "key": "csp_biubiu_风车动漫",
@@ -337,7 +508,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/风车动漫.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/风车动漫.json"
     },
     {
       "key": "csp_biubiu_森屋新番",
@@ -347,7 +518,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/森屋新番.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/森屋新番.json"
     },
     {
       "key": "csp_biubiu_漫岛动漫",
@@ -357,7 +528,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/漫岛动漫.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/漫岛动漫.json"
     },
     {
       "key": "csp_biubiu_打驴动漫",
@@ -367,7 +538,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/打驴动漫.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/打驴动漫.json"
     },
     {
       "key": "csp_biubiu_维奇动漫",
@@ -377,7 +548,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/维奇动漫.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/维奇动漫.json"
     },
     {
       "key": "csp_biubiu_真不卡影院(不支持搜索)",
@@ -387,7 +558,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/真不卡影院(不支持搜索).json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/真不卡影院(不支持搜索).json"
     },
     {
       "key": "csp_biubiu_在线之家",
@@ -397,7 +568,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/在线之家.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/在线之家.json"
     },
     {
       "key": "csp_biubiu_COKEMV",
@@ -407,7 +578,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/COKEMV.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/COKEMV.json"
     },
     {
       "key": "csp_biubiu_影视工厂",
@@ -417,7 +588,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/影视工厂.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/影视工厂.json"
     },
     {
       "key": "csp_biubiu_双十电影",
@@ -427,7 +598,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/双十电影.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/双十电影.json"
     },
     {
       "key": "csp_biubiu_555电影",
@@ -437,7 +608,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/555电影.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/555电影.json"
     },
     {
       "key": "csp_biubiu_骚火电影",
@@ -447,7 +618,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/骚火电影.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/骚火电影.json"
     },
     {
       "key": "csp_biubiu_周末电影",
@@ -457,7 +628,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/周末电影.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/周末电影.json"
     },
     {
       "key": "csp_biubiu_剧白白-蓝光",
@@ -467,7 +638,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/剧白白-蓝光.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/剧白白-蓝光.json"
     },
     {
       "key": "csp_biubiu_火火影视",
@@ -477,7 +648,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/火火影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/火火影视.json"
     },
     {
       "key": "csp_biubiu_天空资源",
@@ -487,7 +658,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/天空资源.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/天空资源.json"
     },
     {
       "key": "csp_biubiu_完美看看影视",
@@ -497,7 +668,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/完美看看影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/完美看看影视.json"
     },
     {
       "key": "csp_biubiu_达达龟",
@@ -507,7 +678,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/达达龟.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/达达龟.json"
     },
     {
       "key": "csp_biubiu_乐猪影视",
@@ -517,7 +688,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/乐猪影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/乐猪影视.json"
     },
     {
       "key": "csp_biubiu_口袋影院",
@@ -527,7 +698,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/口袋影院.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/口袋影院.json"
     },
     {
       "key": "csp_biubiu_黑洞影视",
@@ -537,7 +708,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/黑洞影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/黑洞影视.json"
     },
     {
       "key": "csp_biubiu_神马影视",
@@ -547,7 +718,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/神马影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/神马影视.json"
     },
     {
       "key": "csp_biubiu_六度TV",
@@ -557,7 +728,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/六度TV.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/六度TV.json"
     },
     {
       "key": "csp_biubiu_花猫TV",
@@ -567,7 +738,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/花猫TV.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/花猫TV.json"
     },
     {
       "key": "csp_biubiu_348电影网",
@@ -577,7 +748,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/348电影网.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/348电影网.json"
     },
     {
       "key": "csp_biubiu_GIMY影视",
@@ -587,7 +758,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/GIMY影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/GIMY影视.json"
     },
     {
       "key": "csp_biubiu_GimyTV",
@@ -597,7 +768,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/GimyTV.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/GimyTV.json"
     },
     {
       "key": "csp_biubiu_YYDS影院",
@@ -607,7 +778,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/YYDS影院.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/YYDS影院.json"
     },
     {
       "key": "csp_biubiu_思乐影视",
@@ -617,7 +788,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/思乐影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/思乐影视.json"
     },
     {
       "key": "csp_biubiu_开心果电影网",
@@ -627,7 +798,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/开心果电影网.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/开心果电影网.json"
     },
     {
       "key": "csp_biubiu_如如影视",
@@ -637,7 +808,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/如如影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/如如影视.json"
     },
     {
       "key": "csp_biubiu_VIP电影院",
@@ -647,7 +818,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/VIP电影院.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/VIP电影院.json"
     },
     {
       "key": "csp_biubiu_看一看影视",
@@ -657,7 +828,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/看一看影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/看一看影视.json"
     },
     {
       "key": "csp_biubiu_789影视",
@@ -667,7 +838,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/789影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/789影视.json"
     },
     {
       "key": "csp_biubiu_人人影视",
@@ -677,7 +848,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/人人影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/人人影视.json"
     },
     {
       "key": "csp_biubiu_31看影视",
@@ -687,7 +858,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/31看影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/31看影视.json"
     },
     {
       "key": "csp_biubiu_小强迷",
@@ -697,7 +868,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/小强迷.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/小强迷.json"
     },
     {
       "key": "csp_biubiu_chok8电影",
@@ -707,7 +878,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/chok8电影.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/chok8电影.json"
     },
     {
       "key": "csp_biubiu_九州影视",
@@ -717,7 +888,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/九州影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/九州影视.json"
     },
     {
       "key": "csp_biubiu_融兴影视",
@@ -727,7 +898,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/融兴影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/融兴影视.json"
     },
     {
       "key": "csp_biubiu_鸭奈飞",
@@ -737,7 +908,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/鸭奈飞.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/鸭奈飞.json"
     },
     {
       "key": "csp_biubiu_爱港剧",
@@ -747,7 +918,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/爱港剧.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/爱港剧.json"
     },
     {
       "key": "csp_biubiu_23影院",
@@ -757,7 +928,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/23影院.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/23影院.json"
     },
     {
       "key": "csp_biubiu_VIP1280",
@@ -767,7 +938,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/VIP1280.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/VIP1280.json"
     },
     {
       "key": "csp_biubiu_小熊影视",
@@ -777,7 +948,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/小熊影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/小熊影视.json"
     },
     {
       "key": "csp_biubiu_手机看剧",
@@ -787,7 +958,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/手机看剧.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/手机看剧.json"
     },
     {
       "key": "csp_biubiu_创艺影视",
@@ -797,7 +968,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/创艺影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/创艺影视.json"
     },
     {
       "key": "csp_biubiu_炫猫影视",
@@ -807,7 +978,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/炫猫影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/炫猫影视.json"
     },
     {
       "key": "csp_biubiu_奈落影院",
@@ -817,7 +988,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/奈落影院.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/奈落影院.json"
     },
     {
       "key": "csp_biubiu_神马影院",
@@ -827,7 +998,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/神马影院.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/神马影院.json"
     },
     {
       "key": "csp_biubiu_哔嘀影视",
@@ -837,7 +1008,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/哔嘀影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/哔嘀影视.json"
     },
     {
       "key": "csp_biubiu_利丽娅电影",
@@ -847,7 +1018,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/利丽娅电影.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/利丽娅电影.json"
     },
     {
       "key": "csp_biubiu_奈菲影院",
@@ -857,7 +1028,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/奈菲影院.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/奈菲影院.json"
     },
     {
       "key": "csp_biubiu_七年影视",
@@ -867,7 +1038,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/七年影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/七年影视.json"
     },
     {
       "key": "csp_biubiu_大象TV",
@@ -877,7 +1048,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/大象TV.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/大象TV.json"
     },
     {
       "key": "csp_biubiu_4kan电影网",
@@ -887,7 +1058,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/4kan电影网.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/4kan电影网.json"
     },
     {
       "key": "csp_biubiu_蓝莓影视",
@@ -897,7 +1068,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/蓝莓影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/蓝莓影视.json"
     },
     {
       "key": "csp_biubiu_奇优影院（不支持搜）",
@@ -907,7 +1078,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/奇优影院（不支持搜）.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/奇优影院（不支持搜）.json"
     },
     {
       "key": "csp_biubiu_影渣渣",
@@ -917,7 +1088,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/影渣渣.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/影渣渣.json"
     },
     {
       "key": "csp_biubiu_牛马TV",
@@ -927,7 +1098,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/牛马TV.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/牛马TV.json"
     },
     {
       "key": "csp_biubiu_飘花播播",
@@ -937,7 +1108,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/飘花播播.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/飘花播播.json"
     },
     {
       "key": "csp_biubiu_星空影视",
@@ -947,7 +1118,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/星空影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/星空影视.json"
     },
     {
       "key": "csp_biubiu_豆角网",
@@ -957,7 +1128,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/豆角网.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/豆角网.json"
     },
     {
       "key": "csp_biubiu_尘落影院",
@@ -967,7 +1138,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/尘落影院.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/尘落影院.json"
     },
     {
       "key": "csp_biubiu_city电影",
@@ -977,7 +1148,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/city电影.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/city电影.json"
     },
     {
       "key": "csp_biubiu_小傻瓜",
@@ -987,7 +1158,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/小傻瓜.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/小傻瓜.json"
     },
     {
       "key": "csp_biubiu_电影馆",
@@ -997,7 +1168,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/电影馆.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/电影馆.json"
     },
     {
       "key": "csp_biubiu_爱看影视",
@@ -1007,7 +1178,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/爱看影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/爱看影视.json"
     },
     {
       "key": "csp_biubiu_视中心影院",
@@ -1017,7 +1188,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/视中心影院.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/视中心影院.json"
     },
     {
       "key": "csp_biubiu_老茶馆",
@@ -1027,7 +1198,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/老茶馆.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/老茶馆.json"
     },
     {
       "key": "csp_biubiu_凛冬又至",
@@ -1037,7 +1208,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/凛冬又至.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/凛冬又至.json"
     },
     {
       "key": "csp_biubiu_红领巾",
@@ -1047,7 +1218,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/红领巾.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/红领巾.json"
     },
     {
       "key": "csp_biubiu_老电影",
@@ -1057,7 +1228,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/老电影.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/老电影.json"
     },
     {
       "key": "csp_biubiu_Nike影视网",
@@ -1067,7 +1238,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/Nike影视网.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/Nike影视网.json"
     },
     {
       "key": "csp_biubiu_伊雪湾",
@@ -1077,7 +1248,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/伊雪湾.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/伊雪湾.json"
     },
     {
       "key": "csp_biubiu_极品影视",
@@ -1087,7 +1258,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/极品影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/极品影视.json"
     },
     {
       "key": "csp_biubiu_139影视",
@@ -1097,7 +1268,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXB/139影视.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/139影视.json"
     },
     {
       "key": "csp_xpath_独播库",
@@ -1107,7 +1278,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/duboku.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/duboku.json"
     },
     {
       "key": "if101资源",
@@ -1126,7 +1297,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/zxzj2.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/zxzj2.json"
     },
     {
       "key": "csp_xpath_ctv",
@@ -1136,7 +1307,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/chongtmtv.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/chongtmtv.json"
     },
     {
       "key": "csp_xpath_汉城影院",
@@ -1146,7 +1317,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/hancheng.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/hancheng.json"
     },
     {
       "key": "csp_xpath_libv",
@@ -1156,7 +1327,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/libv.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/libv.json"
     },
     {
       "key": "csp_xpath_cokemv",
@@ -1166,7 +1337,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/cokemv.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/cokemv.json"
     },
     {
       "key": "csp_xpath_ddg",
@@ -1176,7 +1347,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/dadagui.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/dadagui.json"
     },
     {
       "key": "csp_xpath_jbb",
@@ -1186,7 +1357,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/jubaibai.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/jubaibai.json"
     },
     {
       "key": "csp_xpath_Jumi",
@@ -1196,7 +1367,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/Jumi.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/Jumi.json"
     },
     {
       "key": "csp_xpath_唐人街",
@@ -1206,7 +1377,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/Renjie.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/Renjie.json"
     },
     {
       "key": "csp_xpath_lranc",
@@ -1216,7 +1387,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/lranc.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/lranc.json"
     },
     {
       "key": "csp_xpath_yanetflix",
@@ -1226,7 +1397,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/yanet.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/yanet.json"
     },
     {
       "key": "csp_xpath_Ole",
@@ -1236,7 +1407,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/olevod.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/olevod.json"
     },
     {
       "key": "csp_xpath_xxys520",
@@ -1246,7 +1417,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/xxys520.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/xxys520.json"
     },
     {
       "key": "csp_xpath_348z",
@@ -1256,7 +1427,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/348z.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/348z.json"
     },
     {
       "key": "csp_xpath_Gimy",
@@ -1266,7 +1437,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/Gimy.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/Gimy.json"
     },
     {
       "key": "csp_xpath_Gimy2",
@@ -1276,7 +1447,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/Gimy2.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/Gimy2.json"
     },
     {
       "key": "csp_xpath_naifeiorg",
@@ -1286,7 +1457,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/naifeiorg.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/naifeiorg.json"
     },
     {
       "key": "csp_xpath_ttsp",
@@ -1296,7 +1467,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/ttsp.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/ttsp.json"
     },
     {
       "key": "csp_xpath_789kp",
@@ -1306,7 +1477,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/789kp.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/789kp.json"
     },
     {
       "key": "csp_xpath_jpys",
@@ -1316,7 +1487,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/jpys.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/jpys.json"
     },
     {
       "key": "csp_xpath_dmw",
@@ -1326,7 +1497,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/dmw.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/dmw.json"
     },
     {
       "key": "csp_xpath_ysjdm",
@@ -1336,7 +1507,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/ysjdm.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/ysjdm.json"
     },
     {
       "key": "csp_xpath_6d",
@@ -1346,7 +1517,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/6d.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/6d.json"
     },
     {
       "key": "csp_xpath_dandanzan10",
@@ -1356,7 +1527,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/dandanzan10.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/dandanzan10.json"
     },
     {
       "key": "csp_xpath_4kpianku",
@@ -1366,7 +1537,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/4kpianku.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/4kpianku.json"
     },
     {
       "key": "csp_xpath_xiangdao",
@@ -1376,7 +1547,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/xiangdao.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/xiangdao.json"
     },
     {
       "key": "csp_xpath_lkvod",
@@ -1386,7 +1557,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/lkvod.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/lkvod.json"
     },
     {
       "key": "csp_xpath_czspp",
@@ -1396,7 +1567,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/czspp.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/czspp.json"
     },
     {
       "key": "csp_XPath_bidiys",
@@ -1406,7 +1577,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/bidiys2.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/bidiys2.json"
     },
     {
       "key": "csp_xpath_age",
@@ -1416,7 +1587,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/agefans.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/agefans.json"
     },
     {
       "key": "csp_xpath_dm84",
@@ -1426,7 +1597,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/dm84.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/dm84.json"
     },
     {
       "key": "csp_xpath_yinghua",
@@ -1436,7 +1607,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/yinghua2.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/yinghua2.json"
     },
     {
       "key": "csp_xpath_17skr",
@@ -1446,7 +1617,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/17skr.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/17skr.json"
     },
     {
       "key": "csp_xpath_bttwoo",
@@ -1456,7 +1627,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/bttwoo.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/bttwoo.json"
     },
     {
       "key": "csp_xpath_wanmeikk",
@@ -1466,7 +1637,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/wanmeikk.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/wanmeikk.json"
     },
     {
       "key": "csp_xpath_saohuotv",
@@ -1476,7 +1647,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/saohuotv2.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/saohuotv2.json"
     },
     {
       "key": "csp_xpath_lezhutv",
@@ -1486,7 +1657,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/lezhutv.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/lezhutv.json"
     },
     {
       "key": "csp_xpath_zaixiandianying8",
@@ -1496,7 +1667,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/zaixiandianying8.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/zaixiandianying8.json"
     },
     {
       "key": "csp_xpath_zzzlike",
@@ -1506,7 +1677,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/zzzlike.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/zzzlike.json"
     },
     {
       "key": "csp_xpath_135kan",
@@ -1516,7 +1687,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/135kan.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/135kan.json"
     },
     {
       "key": "csp_xpath_xfeiji",
@@ -1526,7 +1697,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/xfeiji.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/xfeiji.json"
     },
     {
       "key": "csp_xpath_osx3",
@@ -1536,7 +1707,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/osx3.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/osx3.json"
     },
     {
       "key": "csp_xpath_pianku",
@@ -1546,7 +1717,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/pianku.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/pianku.json"
     },
     {
       "key": "csp_xpath_dianyingn",
@@ -1556,7 +1727,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/dianyingn.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/dianyingn.json"
     },
     {
       "key": "csp_xpath_newfii",
@@ -1566,7 +1737,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/newfii.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/newfii.json"
     },
     {
       "key": "csp_xpath_dym8",
@@ -1576,7 +1747,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/dym8.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/dym8.json"
     },
     {
       "key": "csp_xpath_xuangz",
@@ -1586,7 +1757,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/xuangz.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/xuangz.json"
     },
     {
       "key": "csp_xpath_qdytv",
@@ -1596,7 +1767,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/qdytv.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/qdytv.json"
     },
     {
       "key": "csp_xpath_dingzidy",
@@ -1606,7 +1777,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/dingzidy.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/dingzidy.json"
     },
     {
       "key": "csp_xpath_paopaoshipin",
@@ -1616,7 +1787,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/paopaoshipin.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/paopaoshipin.json"
     },
     {
       "key": "csp_xpath_rttks",
@@ -1626,7 +1797,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/rttks.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/rttks.json"
     },
     {
       "key": "csp_xpath_ikan6",
@@ -1636,7 +1807,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/ikan6.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/ikan6.json"
     },
     {
       "key": "csp_xpath_akmeiju",
@@ -1646,7 +1817,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/akmeiju.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/akmeiju.json"
     },
     {
       "key": "csp_xpath_hiyszx",
@@ -1656,7 +1827,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/hiyszx.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/hiyszx.json"
     },
     {
       "key": "csp_xpath_xqmi",
@@ -1666,7 +1837,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/xqmi.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/xqmi.json"
     },
     {
       "key": "csp_xpath_juhuang",
@@ -1676,7 +1847,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/juhuang.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/juhuang.json"
     },
     {
       "key": "csp_xpath_doujiaow",
@@ -1686,7 +1857,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/doujiaow.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/doujiaow.json"
     },
     {
       "key": "csp_xpath_pianba",
@@ -1696,7 +1867,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/pianba.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/pianba.json"
     },
     {
       "key": "csp_xpath_duboku",
@@ -1706,7 +1877,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/duboku2.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/duboku2.json"
     },
     {
       "key": "csp_xpath_zj883",
@@ -1716,7 +1887,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/zj883.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/zj883.json"
     },
     {
       "key": "csp_xpath_cerrd",
@@ -1726,7 +1897,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/cerrd.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/cerrd.json"
     },
     {
       "key": "csp_xpath_so2",
@@ -1736,7 +1907,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/xiexl78/mao/raw/main/tang/MeowXP/so2.json"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/so2.json"
     },
     {
       "key": "csp_appysv2_追剧TV",
@@ -3704,7 +3875,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL3hpZXhsNzgvbWFvL3Jhdy9tYWluL3RhbmcvdHYvbGl2ZS50eHQ="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly94aWV4bDc4LmdpdGh1Yi5pby9tYW8vdGFuZy90di9saXZlLnR4dA=="
           ]
         }
       ]
@@ -3725,6 +3896,32 @@
       "name": "Json轮询",
       "type": 2,
       "url": "Sequence"
+    },
+    {
+      "name": "parwix1",
+      "type": 0,
+      "url": "https://jx.parwix.com:4433/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
     },
     {
       "name": "293",
@@ -3793,32 +3990,6 @@
           "奇艺",
           "sohu",
           "letv"
-        ]
-      }
-    },
-    {
-      "name": "parwix1",
-      "type": 0,
-      "url": "https://jx.parwix.com:4433/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
         ]
       }
     }
@@ -4059,5 +4230,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://ghproxy.futils.com/https://github.com/xiexl78/mao/blob/main/tang/doraAmen.jar?raw="
+  "spider": "https://xiexl78.github.io/mao/tang/custom_spider (1).jar"
 }
