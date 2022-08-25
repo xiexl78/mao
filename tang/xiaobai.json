@@ -289,7 +289,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/555.bmp"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/555.json"
     },
     {
       "key": "csp_biubiu_lezhu",
@@ -299,7 +299,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/lezhutv.bmp"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/lezhutv.json"
     },
     {
       "key": "789看片",
@@ -309,7 +309,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/789ba.bmp"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/789ba.json"
     },
     {
       "key": "Gimy",
@@ -319,7 +319,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/gimy.bmp"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/gimy.json"
     },
     {
       "key": "Age动漫",
@@ -329,7 +329,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/agefans.bmp"
+      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/agefans.json"
     },
     {
       "key": "300看世界",
