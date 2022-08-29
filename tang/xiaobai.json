@@ -110,6 +110,7 @@
     },
     {"key": "小熊","name": "🐻小熊TV(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Tkys","name":"🐞天空影视(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key":"csp_555","name":"5️⃣️555影视(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "9E03",
       "name": "9E03",
@@ -281,7 +282,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/影视工厂.json"
+      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/影视工厂.json"
     },
     {
       "key": "csp_biubiu_555",
@@ -291,7 +292,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/555.json"
+      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/555.json"
     },
     {
       "key": "csp_biubiu_lezhu",
@@ -301,7 +302,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/lezhutv.json"
+      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/lezhutv.json"
     },
     {
       "key": "789看片",
@@ -311,7 +312,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/789ba.json"
+      "ext": "https://xiexl78.github.io/mao/tang/MeowXP/789ba.json"
     },
     {
       "key": "Gimy",
@@ -321,7 +322,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/gimy.json"
+      "ext": "https://xiexl78.github.io/mao/tang/MeowXP/gimy.json"
     },
     {
       "key": "Age动漫",
@@ -331,7 +332,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://xiexl78.github.io/mao/tang/MeowXP/agefans.json"
+      "ext": "https://xiexl78.github.io/mao/tang/MeowXP/agefans.json"
     },
     {
       "key": "300看世界",
@@ -380,7 +381,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/厂长资源-蓝光.json"
+      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/厂长资源-蓝光.json"
     },
     {
       "key": "csp_biubiu_特狗影视",
@@ -390,7 +391,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/特狗影视.json"
+      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/特狗影视.json"
     },
     {
       "key": "csp_biubiu_喜鹊视频",
@@ -400,7 +401,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/喜鹊视频.json"
+      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/喜鹊视频.json"
     },
     {
       "key": "csp_biubiu_瓜皮TV",
@@ -410,7 +411,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://xiexl78.github.io/mao/tang/MeowXB/瓜皮TV.json"
+      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/瓜皮TV.json"
     },
     {
       "key": "csp_biubiu_真的卡影院",
