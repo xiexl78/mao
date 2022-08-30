@@ -108,6 +108,44 @@
       "quickSearch": 1,
       "filterable": 1
     },
+     {
+            "key": "北雁资源",
+            "name": "🦆北雁资源",
+            "type": 1,
+            "api": "https://zy.beiyan.cc:4433/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playUrl": "",
+            "categories": [
+                "电影",
+                "国产剧",
+                "港台剧",
+                "日韩剧",
+                "欧美剧",
+                "综艺",
+                "动漫"
+            ]
+        },
+    {
+            "key": "csp_剧荒",
+            "name": "👿剧荒",
+            "type": 3,
+            "api": "csp_Juhuang",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+     {
+            "key": "Nfyun",
+            "name": "🌦Nf云",
+            "type": 3,
+            "api": "csp_Nfyun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": ""
+        },
     {"key": "小熊","name": "🐻小熊TV(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Tkys","name":"🐞天空影视(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_555","name":"5️⃣️555影视(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
@@ -274,6 +312,15 @@
       "quickSearch": 1,
       "filterable": 0
     },
+    {
+            "key": "293视频",
+            "name": "🥕293 视频",
+            "type": 3,
+            "api": "csp_SP293",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     {
       "key": "csp_biubiu_ysgc",
       "name": "🥒影视工厂(XB)",
@@ -3900,6 +3947,22 @@
       "type": 2,
       "url": "Sequence"
     },
+    {"name":"解析1","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
+    {"name":"解析2","type":1,"url":"https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url="},
+    {"name":"解析3","type":1,"url":"https://jx.bynote.top/API.php?url="},
+    {"name":"解析4","type":1,"url":"https://jx.bozrc.com:4433/player/?url="},
+    {"name":"解析5","type":1,"url":"https://jx.parwix.com:4433/player/?url="},
+    {"name":"解析6","type":1,"url":"https://jx.parwix.com:4433/player/analysis.php?v="},
+    {"name":"解析7","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="},
+    {"name":"解析8","type":1,"url":"https://okjx.cc/?url="},
+    {"name":"解析9","type":1,"url":"https://www.yemu.xyz/?url="},
+    {"name":"解析10","type":1,"url":"https://jx.xmflv.com/?url="},
+    {"name":"解析11","type":1,"url":"https://parse.123mingren.com/?url="},
+    {"name":"解析12","type":1,"url":"http://www.ckmov.vip/api.php?url="},
+    {"name":"解析13","type":1,"url":"http://api.wpsseo.cn/?v="},
+    {"name":"解析14","type":1,"url":"https://go.yh0523.cn/y.cy?url="},
+    {"name":"解析15","type":1,"url":"https://www.ckplayer.vip/jiexi/?url="},
+    {"name":"解析16","type":1,"url":"https://svip.bljiex.cc/?v="},
     {
       "name": "parwix1",
       "type": 0,
@@ -4233,5 +4296,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://xiexl78.github.io/mao/tang/custom_spider (1).jar"
+  "spider": "https://xiexl78.github.io/mao/tang/0828.jpg"
 }
