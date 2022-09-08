@@ -3956,16 +3956,35 @@
 		}
 	},
   
-    {
-    "name": "aiku",
+   {
+		"name": "云you解析①",
 		"type": 1,
-		"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="
+		"url": "https://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="
+	}, 
+	{
+		"name": "云you解析②",
+		"type": 1,
+		"url": "https://www.nxflv.com/?url="
+	}, 
+	{
+		"name": "RX88③",
+		"type": 1,
+		"url": "https://freejx.rx88.top:1234/?url="
 	}, 
 
-{"name":"南云","type":1,"url":"https://hc.izny.cn/json.php?url="}, 
-{"name":"鸿途","type":1,"url":"https://h5.freejson.xyz/player/?url="}, 
-{"name":"鸿途","type":1,"url":"https://freejx.rx88.top:1234/?url="},
-{"name":"醉仙","type":0,"url":"https://jx.zui.cm/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+    {
+		"name": "GGTV快速",
+		"type": 1,
+		"url": "https://play.fuqizhishi.com/ganggang/API.php?appkey=QQ172598364&url="
+	}, {
+		"name": "m3u8tv高清",
+		"type": 0,
+		"url": "https://jx.m3u8.tv/jiexi/?url="
+	}, {
+		"name": "parwix稳定",
+		"type": 0,
+		"url": "https://jx.bozrc.com:4433/player/?url="
+	}, 
 {
 		"name": "OKjx综合",
 		"type": 0,
