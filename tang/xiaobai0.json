@@ -312,15 +312,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-            "key": "293视频",
-            "name": "🥕293 视频",
-            "type": 3,
-            "api": "csp_SP293",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+    {"key": "293视频","name": "2⃣9⃣3⃣293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://m.miaotvs.cn/资源包1.jar;md5;B10D1D0527E69BCDC323A4C0BF9E5D65/"},
     {
       "key": "csp_biubiu_ysgc",
       "name": "🥒影视工厂(XB)",
