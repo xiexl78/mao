@@ -195,6 +195,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	   {
+      "key": "Lib",
+      "name": "Libvio",
+      "type": 3,
+      "api": "csp_Dora",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "78d057e4d03e47cb62dce13d69b41d6f"
+    },
     {
       "key": "Auete",
       "name": "🐼Auete(SP)",
