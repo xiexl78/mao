@@ -190,13 +190,13 @@
       "filterable": 1
     },
     {
-      "key": "Libvio",
-      "name": "🐼Libvio(SP)",
+      "key": "csp_LibVio",
+      "name": "🐼LibVio(SP)",
       "type": 3,
       "api": "csp_Lib",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
  
     {
@@ -4231,5 +4231,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://xiexl78.github.io/mao/tang/tangsan.jar"
+  "spider": "https://xiexl78.github.io/mao/tang/0901.jar"
 }
