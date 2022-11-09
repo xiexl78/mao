@@ -18,6 +18,43 @@
       "quickSearch": 1,
       "filterable": 1
     },
+   {
+      "key": "Tutu_spider",
+      "name": "🐞图图影视",
+      "type": 3,
+      "api": "csp_TutuYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://45.207.11.9:6658"
+    },
+    {
+      "key": "MiniYs_spider",
+      "name": "🐞迷你影视",
+      "type": 3,
+      "api": "csp_MiniYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "dm77_spider",
+      "name": "🐞齐齐动漫",
+      "type": 3,
+      "api": "csp_DM77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "棉花影视",
+      "name": "🐞棉花影视",
+      "type": 3,
+      "api": "csp_MianHua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
     {
       "key": "KanSJ_spider",
       "name": "🐞看视界",
@@ -151,7 +188,7 @@
     {"key":"csp_Tkys","name":"🐞天空影视(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_555","name":"5️⃣️555影视(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"293","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-	  {"key": "图图（SP）","name": "🐞图图（SP）","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
+
     {
       "key": "9E03",
       "name": "9E03",
