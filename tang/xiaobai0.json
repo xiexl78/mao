@@ -184,11 +184,12 @@
             "filterable": 1,
             "ext": ""
         },
+   {"key":"Zjdr","name":"追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
+   {"key":"Lgyy","name":"蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
+   {"key":"Smdyy","name":"神马","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "小熊","name": "🐻小熊TV(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Tkys","name":"🐞天空影视(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_555","name":"5️⃣️555影视(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"293","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-
     {
       "key": "9E03",
       "name": "9E03",
@@ -353,7 +354,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {"key": "293视频","name": "2⃣9⃣3⃣293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://m.miaotvs.cn/资源包1.jar;md5;B10D1D0527E69BCDC323A4C0BF9E5D65/"},
+ 
     {
       "key": "csp_biubiu_ysgc",
       "name": "🥒影视工厂(XB)",
@@ -4268,5 +4269,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://gitee.com/xiexl3170/mao/blob/main/tang/0901.jar"
+  "spider": "https://gitee.com/xiexl3170/mao/blob/main/tang/1109.txt"
 }
