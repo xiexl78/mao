@@ -18,6 +18,43 @@
       "quickSearch": 1,
       "filterable": 1
     },
+   {
+      "key": "Tutu_spider",
+      "name": "🐞图图影视",
+      "type": 3,
+      "api": "csp_TutuYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://45.207.11.9:6658"
+    },
+    {
+      "key": "MiniYs_spider",
+      "name": "🐞迷你影视",
+      "type": 3,
+      "api": "csp_MiniYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "dm77_spider",
+      "name": "🐞齐齐动漫",
+      "type": 3,
+      "api": "csp_DM77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "棉花影视",
+      "name": "🐞棉花影视",
+      "type": 3,
+      "api": "csp_MianHua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
     {
       "key": "KanSJ_spider",
       "name": "🐞看视界",
@@ -108,6 +145,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	  {"key":"唐人街","name":" 🍁唐人街","type":0,"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":[]},  
      {
             "key": "北雁资源",
             "name": "🦆北雁资源",
@@ -146,6 +184,9 @@
             "filterable": 1,
             "ext": ""
         },
+   {"key":"Zjdr","name":"追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
+   {"key":"Lgyy","name":"蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
+   {"key":"Smdyy","name":"神马","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "小熊","name": "🐻小熊TV(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Tkys","name":"🐞天空影视(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_555","name":"5️⃣️555影视(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
@@ -187,14 +228,15 @@
       "filterable": 1
     },
     {
-      "key": "Libvio",
-      "name": "🐼Libvio(SP)",
+      "key": "csp_LibVio",
+      "name": "🐼LibVio(SP)",
       "type": 3,
       "api": "csp_Lib",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
+ 
     {
       "key": "Auete",
       "name": "🐼Auete(SP)",
@@ -312,7 +354,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {"key": "293视频","name": "2⃣9⃣3⃣293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://m.miaotvs.cn/资源包1.jar;md5;B10D1D0527E69BCDC323A4C0BF9E5D65/"},
+ 
     {
       "key": "csp_biubiu_ysgc",
       "name": "🥒影视工厂(XB)",
@@ -3988,7 +4030,8 @@
 {"name":"解析爱酷","type":1,"url":"https://jx.zhanlangbu.com/API.php?appkey=53df3aa2fdb66bcbc4d05730b6fbfc71&url="},
 {"name":"江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 {"name":"线路13","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name": "web1","type": 0,"url": "https://www.nxflv.com/?url=","ext": {"flag": ["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺","sohu","letv"]}},
+{"name": "web1","type": 0,"url": "https://www.nxflv.com/?url=","ext": {"flag": ["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺","sohu","letv"]}},  
+
  {
 		"name": "keyu",
 		"type": 1,
@@ -4272,5 +4315,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "http://shuyuan.miaogongzi.net/shuyuan/1668081738.txt"
+  "spider": "http://shuyuan.miaogongzi.net/shuyuan/1667819239.txt"
 }
