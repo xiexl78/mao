@@ -18,14 +18,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+     {
       "key": "Tutu_spider",
-      "name": "🐞图图影视",
+      "name": "图图影视",
       "type": 3,
       "api": "csp_TutuYs",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "http://45.207.11.9:6618"
     },
     {
       "key": "MiniYs_spider",
@@ -53,6 +54,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+     {
+      "key": "YQK_spider",
+      "name": "一起看TV",
+      "type": 3,
+      "api": "csp_YQKAPP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://api-tx.shumaxc.xyz"
     },
     {
       "key": "KanSJ_spider",
