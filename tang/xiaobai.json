@@ -18,15 +18,43 @@
       "quickSearch": 1,
       "filterable": 1
     },
-     {
+    {
       "key": "Tutu_spider",
-      "name": "图图影视",
+      "name": "🐞图图影视",
       "type": 3,
       "api": "csp_TutuYs",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://45.207.11.9:6618"
+    },
+    {
+      "key": "csp_AppTT",
+      "name": "💦SP┃图图影视",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Bd",
+      "name": "💦SP┃哔嘀影视",
+      "type": 3,
+      "api": "csp_Bdys01",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "💦SP┃农民影视",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://suanjin.github.io/main/Bili/Nmys.json"
     },
     {
       "key": "MiniYs_spider",
@@ -55,15 +83,61 @@
       "quickSearch": 1,
       "filterable": 0
     },
-     {
+    {
       "key": "YQK_spider",
-      "name": "一起看TV",
+      "name": "🐞一起看TV",
       "type": 3,
       "api": "csp_YQKAPP",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://api-tx.shumaxc.xyz"
+    },
+     {
+      "key": "百影视频",
+      "name": "🐞百影视频",
+      "type": 3,
+      "api": "csp_MianHua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://47.104.99.175"
+    },
+    {
+      "key": "sliu_spider",
+      "name": "🐞石榴电影",
+      "type": 3,
+      "api": "csp_ShiLiuDY",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "yanetflix_spider",
+      "name": "🐞鸭奈飞",
+      "type": 3,
+      "api": "csp_YaNetFlix",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "niketv_spider",
+      "name": "🐞耐客TV",
+      "type": 3,
+      "api": "csp_NikeTV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "蓝光电影",
+      "name": "🐞蓝光电影",
+      "type": 3,
+      "api": "csp_Lgdyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "KanSJ_spider",
@@ -155,32 +229,141 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "唐人街",
-      "name": " 🍁唐人街",
-      "type": 0,
-      "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "北雁资源",
-      "name": "🦆北雁资源",
+       {
+      "key": "极速资源dd",
+      "name": "💦SP┃极速资源",
       "type": 1,
-      "api": "https://zy.beiyan.cc:4433/api.php/provide/vod/",
+      "api": "http://www.ddzyz1.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "电影",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
         "国产剧",
         "港台剧",
         "日韩剧",
         "欧美剧",
-        "综艺",
-        "动漫"
+        "泰国剧",
+        "海外剧",
+        "灾难片",
+        "犯罪片",
+        "悬疑片",
+        "惊悚片",
+        "奇幻片",
+        "冒险片",
+        "武侠片",
+        "纪录片",
+        "动画片",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "国内综艺",
+        "海外综艺"
       ]
+    },
+    {
+      "key": "极速资源lz",
+      "name": "💦SP┃极速资源lz",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "记录片",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "电影解说"
+      ]
+    },
+    {
+      "key": "极速资源xl",
+      "name": "💦SP┃极速资源xl",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "剧情片",
+        "恐怖片",
+        "喜剧片",
+        "大陆剧",
+        "港澳剧",
+        "台湾剧",
+        "欧美剧",
+        "动漫电影",
+        "韩剧",
+        "日剧",
+        "泰剧"
+      ]
+    },
+    {
+      "key": "极速资源gs",
+      "name": "💦SP┃极速资源gs",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "剧情片",
+        "恐怖片",
+        "喜剧片",
+        "大陆剧",
+        "港澳剧",
+        "台湾剧",
+        "欧美剧",
+        "动漫电影",
+        "韩剧",
+        "日剧",
+        "泰剧"
+      ]
+    },
+    {
+      "key": "极速资源bd",
+      "name": "💦SP┃极速资源bd",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_剧荒",
@@ -203,17 +386,54 @@
     {
       "key": "Zjdr",
       "name": "追剧达人",
-      "type": 3,
-      "api": "csp_Zjdr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "type": 0,
+      "api": "csp_Dora",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "778e8966ec0e9c0ae0b4682ad3550f40"
     },
     {
       "key": "Lgyy",
       "name": "蓝光",
       "type": 3,
       "api": "csp_Lgyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_fant",
+      "name": "💦SP┃饭团",
+      "type": 3,
+      "api": "csp_Fantuan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Nkdy",
+      "name": "💦SP┃南柯",
+      "type": 3,
+      "api": "csp_Nkdy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Ysgc",
+      "name": "💦SP┃工厂",
+      "type": 3,
+      "api": "csp_Ysgc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Zjdr",
+      "name": "💦SP┃追剧",
+      "type": 3,
+      "api": "csp_Zjdr",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -5226,5 +5446,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "http://shuyuan.miaogongzi.net/shuyuan/1668286443.txt;md5;f6e93e53b2384e118aa1afb6286970fe"
+  "spider": "http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"
 }
