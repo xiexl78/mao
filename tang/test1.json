@@ -26,7 +26,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://45.207.11.9:6658"
+      "ext": "http://45.207.11.9:6618"
     },
     {
       "key": "csp_AppTT",
@@ -82,6 +82,62 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "YQK_spider",
+      "name": "🐞一起看TV",
+      "type": 3,
+      "api": "csp_YQKAPP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://api-tx.shumaxc.xyz"
+    },
+     {
+      "key": "百影视频",
+      "name": "🐞百影视频",
+      "type": 3,
+      "api": "csp_MianHua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://47.104.99.175"
+    },
+    {
+      "key": "sliu_spider",
+      "name": "🐞石榴电影",
+      "type": 3,
+      "api": "csp_ShiLiuDY",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "yanetflix_spider",
+      "name": "🐞鸭奈飞",
+      "type": 3,
+      "api": "csp_YaNetFlix",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "niketv_spider",
+      "name": "🐞耐客TV",
+      "type": 3,
+      "api": "csp_NikeTV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "蓝光电影",
+      "name": "🐞蓝光电影",
+      "type": 3,
+      "api": "csp_Lgdyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "KanSJ_spider",
@@ -173,16 +229,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "唐人街",
-      "name": " 🍁唐人街",
-      "type": 0,
-      "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
+       {
       "key": "极速资源dd",
       "name": "💦SP┃极速资源",
       "type": 1,
