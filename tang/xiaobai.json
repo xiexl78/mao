@@ -93,7 +93,7 @@
       "filterable": 1,
       "ext": "https://api-tx.shumaxc.xyz"
     },
-     {
+    {
       "key": "百影视频",
       "name": "🐞百影视频",
       "type": 3,
@@ -112,7 +112,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-     {
+    {
       "key": "yanetflix_spider",
       "name": "🐞鸭奈飞",
       "type": 3,
@@ -121,7 +121,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-     {
+    {
       "key": "niketv_spider",
       "name": "🐞耐客TV",
       "type": 3,
@@ -229,7 +229,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-       {
+    {
       "key": "极速资源dd",
       "name": "💦SP┃极速资源",
       "type": 1,
@@ -4245,12 +4245,1005 @@
   ],
   "lives": [
     {
-      "group": "redirect",
+      "group": "央视",
       "channels": [
         {
-          "name": "redirect",
+          "name": "CCTV-1",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly94aWV4bDc4LmdpdGh1Yi5pby9tYW8vdGFuZy90di9saXZlLnR4dA=="
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1",
+            "http://39.134.24.24/PLTV/88888888/224/3221225684/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225829/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225652/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221226024/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-2",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2",
+            "http://39.134.24.24/PLTV/88888888/224/3221225686/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-3",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3",
+            "http://39.134.24.24/PLTV/88888888/224/3221226023/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225630/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-4",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4",
+            "http://39.134.24.24/PLTV/88888888/224/3221225662/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-5",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5",
+            "http://39.134.24.24/PLTV/88888888/224/3221226025/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225758/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-5+",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus",
+            "http://39.134.24.24/PLTV/88888888/224/3221225718/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-6",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6",
+            "http://39.134.24.24/PLTV/88888888/224/3221226027/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225708/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-7",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7",
+            "http://39.134.24.24/PLTV/88888888/224/3221225855/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225768/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-8",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8",
+            "http://39.134.24.24/PLTV/88888888/224/3221226029/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225666/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-9",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9",
+            "http://39.134.24.24/PLTV/88888888/224/3221225672/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-10",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10",
+            "http://39.134.24.24/PLTV/88888888/224/3221225823/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225782/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-11",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11",
+            "http://39.134.24.24/PLTV/88888888/224/3221225825/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225774/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-12",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12",
+            "http://39.134.24.24/PLTV/88888888/224/3221225702/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-13",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13",
+            "http://39.134.24.24/PLTV/88888888/224/3221225827/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225612/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225650/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-14",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14",
+            "http://39.134.24.24/PLTV/88888888/224/3221225857/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225658/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-15",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15",
+            "http://39.134.24.24/PLTV/88888888/224/3221225636/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-17",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17",
+            "http://39.134.24.24/PLTV/88888888/224/3221225859/index.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "卫视",
+      "channels": [
+        {
+          "name": "安多卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/anduostv/anduostv"
+          ]
+        },
+        {
+          "name": "安徽卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-anhuistv/HD-8000k-1080P-anhuistv",
+            "http://39.134.24.24/PLTV/88888888/224/3221225847/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225638/index.m3u8"
+          ]
+        },
+        {
+          "name": "北京卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv",
+            "http://39.134.24.24/PLTV/88888888/224/3221225833/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225724/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225646/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225735/index.m3u8"
+          ]
+        },
+        {
+          "name": "兵团卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/SD-4000k-576P-bingtuanstv/SD-4000k-576P-bingtuanstv"
+          ]
+        },
+        {
+          "name": "重庆卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv",
+            "http://39.134.24.24/PLTV/88888888/224/3221225592/index.m3u8"
+          ]
+        },
+        {
+          "name": "东方卫视",
+          "urls": [
+            "http://39.134.24.24/PLTV/88888888/224/3221225676/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225835/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225622/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225976/index.m3u8"
+          ]
+        },
+        {
+          "name": "东南卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-dongnanstv/n-dongnanstv",
+            "http://39.134.24.24/PLTV/88888888/224/3221225722/index.m3u8"
+          ]
+        },
+        {
+          "name": "甘肃卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-gansustv/n-gansustv",
+            "http://39.134.24.24/PLTV/88888888/224/3221225714/index.m3u8"
+          ]
+        },
+        {
+          "name": "广东南方卫视",
+          "urls": [
+            "http://39.134.24.24/PLTV/88888888/224/3221225871/index.m3u8"
+          ]
+        },
+        {
+          "name": "广东卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-guangdongstv/n-guangdongstv",
+            "http://39.134.24.24/PLTV/88888888/224/3221225692/index.m3u8"
+          ]
+        },
+        {
+          "name": "广西卫视",
+          "urls": [
+            "http://39.134.24.24/PLTV/88888888/224/3221225594/index.m3u8"
+          ]
+        },
+        {
+          "name": "贵州卫视",
+          "urls": [
+            "http://39.134.24.24/PLTV/88888888/224/3221225610/index.m3u8"
+          ]
+        },
+        {
+          "name": "海南卫视",
+          "urls": [
+            "http://39.134.24.24/PLTV/88888888/224/3221225614/index.m3u8"
+          ]
+        },
+        {
+          "name": "河北卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-hebeistv/n-hebeistv",
+            "http://39.134.24.24/PLTV/88888888/224/3221225744/index.m3u8"
+          ]
+        },
+        {
+          "name": "河南卫视",
+          "urls": [
+            "http://39.134.24.24/PLTV/88888888/224/3221225716/index.m3u8"
+          ]
+        },
+        {
+          "name": "黑龙江卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-heilongjiangstv/HD-8000k-1080P-heilongjiangstv",
+            "http://39.134.24.24/PLTV/88888888/224/3221225690/index.m3u8"
+          ]
+        },
+        {
+          "name": "湖北卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv",
+            "http://39.134.24.24/PLTV/88888888/224/3221225674/index.m3u8"
+          ]
+        },
+        {
+          "name": "湖南卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/hunanstv/hunanstv",
+            "http://39.134.24.24/PLTV/88888888/224/3221225616/index.m3u8"
+          ]
+        },
+        {
+          "name": "吉林卫视",
+          "urls": [
+            "http://39.134.24.24/PLTV/88888888/224/3221225804/index.m3u8"
+          ]
+        },
+        {
+          "name": "江苏卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv",
+            "http://39.134.24.24/PLTV/88888888/224/3221225602/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225734/index.m3u8"
+          ]
+        },
+        {
+          "name": "江西卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/jiangxistv/jiangxistv",
+            "http://39.134.24.24/PLTV/88888888/224/3221225682/index.m3u8"
+          ]
+        },
+        {
+          "name": "康巴卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/SD-4000k-576P-kambatv/SD-4000k-576P-kambatv"
+          ]
+        },
+        {
+          "name": "辽宁卫视",
+          "urls": [
+            "http://39.134.24.24/PLTV/88888888/224/3221225726/index.m3u8"
+          ]
+        },
+        {
+          "name": "内蒙古卫视",
+          "urls": [
+            "http://39.134.24.24/PLTV/88888888/224/3221225626/index.m3u8"
+          ]
+        },
+        {
+          "name": "宁夏卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-ningxiastv/n-ningxiastv",
+            "http://39.134.24.24/PLTV/88888888/224/3221225730/index.m3u8"
+          ]
+        },
+        {
+          "name": "青海安多卫视",
+          "urls": [
+            "http://39.134.24.24/PLTV/88888888/224/3221225875/index.m3u8"
+          ]
+        },
+        {
+          "name": "青海卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-qinghaistv/n-qinghaistv",
+            "http://39.134.24.24/PLTV/88888888/224/3221225606/index.m3u8"
+          ]
+        },
+        {
+          "name": "山东卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv",
+            "http://39.134.24.24/PLTV/88888888/224/3221225841/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225796/index.m3u8"
+          ]
+        },
+        {
+          "name": "山西卫视",
+          "urls": [
+            "http://39.134.24.24/PLTV/88888888/224/3221225738/index.m3u8"
+          ]
+        },
+        {
+          "name": "陕西农林卫视",
+          "urls": [
+            "http://39.134.24.24/PLTV/88888888/224/3221225877/index.m3u8"
+          ]
+        },
+        {
+          "name": "陕西卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-shanxi1stv/n-shanxi1stv"
+          ]
+        },
+        {
+          "name": "深圳卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv",
+            "http://39.134.24.24/PLTV/88888888/224/3221225843/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225764/index.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225590/index.m3u8"
+          ]
+        },
+        {
+          "name": "四川卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-sichuanstv/n-sichuanstv",
+            "http://39.134.24.24/PLTV/88888888/224/3221225704/index.m3u8"
+          ]
+        },
+        {
+          "name": "天津卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv"
+          ]
+        },
+        {
+          "name": "云南卫视",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-yntv1/n-yntv1",
+            "http://39.134.24.24/PLTV/88888888/224/3221225696/index.m3u8"
+          ]
+        },
+        {
+          "name": "浙江卫视",
+          "urls": [
+            "http://39.134.24.24/PLTV/88888888/224/3221225642/index.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "明星",
+      "channels": [
+        {
+          "name": "周星馳",
+          "urls": [
+            "http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8",
+            "https://hw.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8",
+            "http://183.232.171.91/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8",
+            "http://183.232.171.91/tx.hls.huya.com/src/1199563481163-1199563481163-5444324506032144384-2399127085782-10057-A-0-1.m3u8",
+            "http://183.232.171.91/tx.hls.huya.com/src/1199561277724-1199561277724-5434860807588413440-2399122678904-10057-A-0-1.m3u8",
+            "http://183.232.171.91/tx.hls.huya.com/src/1449698986-1449698986-6226409733914361856-2847687634-10057-A-0-1.m3u8",
+            "http://121.51.94.31/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8",
+            "http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112",
+            "http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=",
+            "http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.xs?uuid=",
+            "http://api.phoves.com.cn/iptv/huya.php?id=11342412",
+            "http://api.phoves.com.cn/iptv/huya.php?id=19105261",
+            "http://zzy789.xyz/douyu1.php?id=3990812",
+            "http://106.53.212.251/daili/yy.php?id=1353881242",
+            "http://106.53.212.251/daili/yy.php?id=38670875",
+            "http://106.53.212.251/daili/yy.php?id=1463505959",
+            "http://zzy789.xyz/douyu1.php?id=122402",
+            "https://1f97bd333ceef73bfdbd7e9987650b18.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_199681168.flv",
+            "http://183.232.171.91/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8"
+          ]
+        },
+        {
+          "name": "林正英",
+          "urls": [
+            "http://121.51.94.31/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8",
+            "https://hw.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8",
+            "https://hw.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8",
+            "http://api.phoves.com.cn/iptv/huya.php?id=11342421",
+            "http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8",
+            "https://3954-quic.liveplay.myqcloud.com/live/3954_363783415.flv",
+            "http://zzy789.xyz/douyu1.php?id=218859",
+            "http://106.53.212.251/daili/yy.php?id=1353059120",
+            "http://106.53.212.251/daili/yy.php?id=1351505899",
+            "http://106.53.212.251/daili/yy.php?id=1353685311",
+            "http://106.53.212.251/daili/yy.php?id=1351505899",
+            "http://106.53.212.251/daili/yy.php?id=34229877",
+            "http://106.53.212.251/daili/yy.php?id=24066336",
+            "http://zzy789.xyz/douyu1.php?id=7805562",
+            "http://106.53.212.251/daili/yy.php?id=1353507954",
+            "https://1f97bd333ceef73bfdbd7e9987650b18.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_363783415.flv"
+          ]
+        },
+        {
+          "name": "成龍",
+          "urls": [
+            "http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8",
+            "https://hw.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.m3u8",
+            "http://121.51.94.31/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8",
+            "http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890",
+            "http://api.phoves.com.cn/iptv/huya.php?id=11342386",
+            "http://106.53.212.251/daili/yy.php?id=34460526",
+            "http://183.232.171.91/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.m3u8"
+          ]
+        },
+        {
+          "name": "張國榮",
+          "urls": [
+            "http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8",
+            "http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526",
+            "http://api.phoves.com.cn/iptv/huya.php?id=11602034"
+          ]
+        },
+        {
+          "name": "吳京",
+          "urls": [
+            "http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8",
+            "https://hw.flv.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8",
+            "http://121.51.94.31/tx.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8",
+            "http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681368",
+            "http://api.phoves.com.cn/iptv/huya.php?id=11602045"
+          ]
+        },
+        {
+          "name": "劉德華",
+          "urls": [
+            "http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8",
+            "https://hw.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8",
+            "http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648",
+            "http://api.phoves.com.cn/iptv/huya.php?id=11342424",
+            "http://183.232.171.91/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "古天樂",
+          "urls": [
+            "http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8",
+            "http://api.phoves.com.cn/iptv/huya.php?id=10871113"
+          ]
+        },
+        {
+          "name": "徐崢",
+          "urls": [
+            "http://121.51.94.31/tx.hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8",
+            "https://hw.flv.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8",
+            "http://api.phoves.com.cn/iptv/huya.php?id=11602043"
+          ]
+        },
+        {
+          "name": "沈腾",
+          "urls": [
+            "http://121.51.94.31/tx.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.m3u8",
+            "https://hw.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.m3u8"
+          ]
+        },
+        {
+          "name": "甄子丹",
+          "urls": [
+            "https://hw.flv.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8"
+          ]
+        },
+        {
+          "name": "洪金宝",
+          "urls": [
+            "https://hw.flv.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.m3u8",
+            "https://hw.flv.huya.com/src/1449698705-1449698705-6226408527028551680-3049003156-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "五福星",
+          "urls": [
+            "https://hw.flv.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "李小龙",
+          "urls": [
+            "https://hw.flv.huya.com/src/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "李连杰",
+          "urls": [
+            "https://hw.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8"
+          ]
+        },
+        {
+          "name": "女神系列",
+          "urls": [
+            "https://hw.flv.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1-imgplus.m3u8"
+          ]
+        },
+        {
+          "name": "张柏芝",
+          "urls": [
+            "https://hw.flv.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "北有谢",
+          "urls": [
+            "https://hw.flv.huya.com/src/1445653465-1445653465-6209034353524080640-2847699238-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "刘涛",
+          "urls": [
+            "https://hw.flv.huya.com/src/1524418105-1524418105-6547325906405294080-3048959666-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "大咖自黑",
+          "urls": [
+            "https://hw.flv.huya.com/src/1449572975-1449572975-6225868520790425600-2789274544-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "极限挑战",
+          "urls": [
+            "https://hw.flv.huya.com/src/1423782086-1423782086-6115097496000659456-2847687628-10057-A-0-1-imgplus.m3u8"
+          ]
+        },
+        {
+          "name": "【黑帮大片】",
+          "urls": [
+            "https://hw.flv.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.m3u8"
+          ]
+        },
+        {
+          "name": "金庸頻道",
+          "urls": [
+            "http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8",
+            "https://hw.flv.huya.com/src/1524418105-1524418105-6547325906405294080-3048959666-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "喜劇聯盟",
+          "urls": [
+            "http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8",
+            "https://hw.flv.huya.com/src/1445653465-1445653465-6209034353524080640-2847699238-10057-A-0-1.m3u8",
+            "https://hw.flv.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1-imgplus.m3u8"
+          ]
+        },
+        {
+          "name": "高分影院",
+          "urls": [
+            "http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8"
+          ]
+        },
+        {
+          "name": "周潤發",
+          "urls": [
+            "http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8",
+            "https://hw.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8",
+            "http://183.232.171.91/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8",
+            "http://183.232.171.91/tx.hls.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.m3u8",
+            "http://183.232.171.91/tx.hls.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.m3u8",
+            "http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984",
+            "http://api.phoves.com.cn/iptv/huya.php?id=11342387"
+          ]
+        },
+        {
+          "name": "郭富城",
+          "urls": [
+            "http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8"
+          ]
+        },
+        {
+          "name": "楊冪",
+          "urls": [
+            "http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8"
+          ]
+        },
+        {
+          "name": "劉亦菲",
+          "urls": [
+            "http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8"
+          ]
+        },
+        {
+          "name": "懷舊老片",
+          "urls": [
+            "http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8"
+          ]
+        },
+        {
+          "name": "午夜失眠劇場",
+          "urls": [
+            "http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8"
+          ]
+        },
+        {
+          "name": "雲上電影院",
+          "urls": [
+            "http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8"
+          ]
+        },
+        {
+          "name": "每日科幻電影",
+          "urls": [
+            "http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8"
+          ]
+        },
+        {
+          "name": "殭屍劇場",
+          "urls": [
+            "http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8",
+            "https://3954-quic.liveplay.myqcloud.com/live/3954_363783415.flv"
+          ]
+        },
+        {
+          "name": "TVB劇場",
+          "urls": [
+            "http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8"
+          ]
+        },
+        {
+          "name": "新片放映廳",
+          "urls": [
+            "http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8"
+          ]
+        },
+        {
+          "name": "盜墓",
+          "urls": [
+            "http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8"
+          ]
+        },
+        {
+          "name": "試膽大會",
+          "urls": [
+            "http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8"
+          ]
+        },
+        {
+          "name": "高能燒腦時刻",
+          "urls": [
+            "http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8"
+          ]
+        },
+        {
+          "name": "4K劇場",
+          "urls": [
+            "http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8"
+          ]
+        },
+        {
+          "name": "愛情公寓",
+          "urls": [
+            "http://117.148.179.160/PLTV/88888888/224/3221231583/index.m3u8"
+          ]
+        },
+        {
+          "name": "軍旅劇場",
+          "urls": [
+            "http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8"
+          ]
+        },
+        {
+          "name": "SNH48劇場公演",
+          "urls": [
+            "http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8"
+          ]
+        },
+        {
+          "name": "少林劇場",
+          "urls": [
+            "http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8"
+          ]
+        },
+        {
+          "name": "神探狄仁傑",
+          "urls": [
+            "http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8"
+          ]
+        },
+        {
+          "name": "黃金劇場",
+          "urls": [
+            "http://117.148.179.183/PLTV/88888888/224/3221231637/index.m3u8"
+          ]
+        },
+        {
+          "name": "追劇少女",
+          "urls": [
+            "http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8"
+          ]
+        },
+        {
+          "name": "古龍作品集",
+          "urls": [
+            "http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8"
+          ]
+        },
+        {
+          "name": "經典賀歲片",
+          "urls": [
+            "http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8"
+          ]
+        },
+        {
+          "name": "每日薦影",
+          "urls": [
+            "http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8"
+          ]
+        },
+        {
+          "name": "武俠劇場",
+          "urls": [
+            "http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8"
+          ]
+        },
+        {
+          "name": "漫威DC★动作喜剧★经典电影 梦剧場",
+          "urls": [
+            "http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_616645877_4000.flv"
+          ]
+        },
+        {
+          "name": "国外影院",
+          "urls": [
+            "http://111.6.242.36/txpcdn.liveplay.egame.qq.com/live/3954_382971876_4000.flv"
+          ]
+        },
+        {
+          "name": "头文字D",
+          "urls": [
+            "http://183.232.171.91/tx.hls.huya.com/src/1423782053-1423782053-6115097354266738688-2847687562-10057-A-0-1.m3u8"
+          ]
+        },
+        {
+          "name": "KK_经典好剧",
+          "urls": [
+            "http://hpull.kktv8.com/livekktv/153793844/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "KK_科幻怪兽",
+          "urls": [
+            "http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "KK_喜剧电影",
+          "urls": [
+            "http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "KK_女神影院",
+          "urls": [
+            "http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "BesTv影院1",
+          "urls": [
+            "rtsp://183.252.166.199/PLTV/88888888/224/3221226757/45949783.smil"
+          ]
+        },
+        {
+          "name": "Bestv影院2",
+          "urls": [
+            "rtsp://183.252.166.199/PLTV/88888888/224/3221226816/48629572.smil"
+          ]
+        },
+        {
+          "name": "Bestv影院3",
+          "urls": [
+            "rtsp://183.252.166.199/PLTV/88888888/224/3221226748/45950069.smil"
+          ]
+        },
+        {
+          "name": "Bestv影院4",
+          "urls": [
+            "rtsp://183.252.166.199/PLTV/88888888/224/3221226797/47878049.smil"
+          ]
+        },
+        {
+          "name": "Bestv电视剧1",
+          "urls": [
+            "rtsp://183.252.166.199/PLTV/88888888/224/3221226761/45973212.smil"
+          ]
+        },
+        {
+          "name": "Bestv电视剧2",
+          "urls": [
+            "rtsp://183.252.166.199/PLTV/88888888/224/3221226022/10000100000000060000000002296864_0.smil"
+          ]
+        },
+        {
+          "name": "Bestv电视剧3",
+          "urls": [
+            "rtsp://183.252.166.199/PLTV/88888888/224/3221226752/45973624.smil"
+          ]
+        },
+        {
+          "name": "Bestv动画1",
+          "urls": [
+            "rtsp://183.252.166.199/PLTV/88888888/224/3221226756/45973923.smil"
+          ]
+        },
+        {
+          "name": "Bestv动画2",
+          "urls": [
+            "rtsp://183.252.166.199/PLTV/88888888/224/3221226917/57526342.smil"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "NewTV",
+      "channels": [
+        {
+          "name": "凤凰中文",
+          "urls": [
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221228057/index.m3u8",
+            "http://v.mp.haue.edu.cn/hls/fhzw.m3u8",
+            "http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8",
+            "http://iptv.tvfix.org/hls/fhzw.m3u8",
+            "http://66.90.88.132:8080/hls/ph00451/index.m3u8",
+            "http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8",
+            "http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8",
+            "http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8",
+            "http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8",
+            "http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8",
+            "http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8",
+            "http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8",
+            "http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8",
+            "http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8",
+            "http://111.13.42.8/PLTV/88888888/224/3221225942/1.m3u8",
+            "http://111.13.42.8/PLTV/88888888/224/3221225948/1.m3u8",
+            "rtmp://45.88.148.178/channel/60c2f331961593122ebaf8c7?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH",
+            "http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8",
+            "http://host496323.us.ooqr.com/pltv/gdgz.php?id=37&upt=63a44f4ef2f3c6ce",
+            "http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8"
+          ]
+        },
+        {
+          "name": "凤凰资讯",
+          "urls": [
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221228098/index.m3u8",
+            "http://v.mp.haue.edu.cn/hls/fhzx.m3u8",
+            "http://66.90.88.132:8080/hls/ph00452/index.m3u8",
+            "http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8",
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221228098/index.m3u8",
+            "http://iptv.tvfix.org/hls/fhzx.m3u8",
+            "http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8",
+            "http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8",
+            "http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8",
+            "http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8",
+            "http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8",
+            "http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8",
+            "http://anan.jxin122.top/cj.php?id=99&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52",
+            "http://host496323.us.ooqr.com/pltv/gdgz.php?id=36&upt=63a44f4ef2f3c6ce",
+            "rtmp://45.88.148.178/channel/60c2f46e961593122ebaf8cb?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH"
+          ]
+        },
+        {
+          "name": "NewTV爱情喜剧",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj"
+          ]
+        },
+        {
+          "name": "NewTV潮妈辣婆",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo"
+          ]
+        },
+        {
+          "name": "NewTV动作电影",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-dongzuody/n-dongzuody"
+          ]
+        },
+        {
+          "name": "NewTV古装剧场",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc"
+          ]
+        },
+        {
+          "name": "NewTV黑莓电竞之夜",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/wmyx/wmyx"
+          ]
+        },
+        {
+          "name": "NewTV黑莓电影",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie"
+          ]
+        },
+        {
+          "name": "NewTV黑莓动画",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg"
+          ]
+        },
+        {
+          "name": "NewTV家庭剧场",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-jiatingjc/n-jiatingjc"
+          ]
+        },
+        {
+          "name": "NewTV金牌综艺",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-saishijx/n-saishijx"
+          ]
+        },
+        {
+          "name": "NewTV精品大剧",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-jdaju/n-jdaju"
+          ]
+        },
+        {
+          "name": "NewTV精品体育",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu"
+          ]
+        },
+        {
+          "name": "NewTV精品综合",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp"
+          ]
+        },
+        {
+          "name": "NewTV军旅剧场",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc"
+          ]
+        },
+        {
+          "name": "NewTV军事评论",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl"
+          ]
+        },
+        {
+          "name": "NewTV农业致富",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf"
+          ]
+        },
+        {
+          "name": "NewTV热播精选",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd"
+          ]
+        },
+        {
+          "name": "NewTV中国功夫",
+          "urls": [
+            "http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu"
           ]
         }
       ]
