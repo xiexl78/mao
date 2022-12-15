@@ -125,11 +125,11 @@
     {
 "key":"NoSearch_Bdys_spider",
 "name":"🐞哔滴影视",
-"api":"csp_Bdys01",
 "type":3,
-"filterable":1,
-"quickSearch":1,
+"api":"csp_Bdys01",
 "searchable":1,
+"quickSearch":1,
+"filterable":1,
 "ext":""
 },
     {
