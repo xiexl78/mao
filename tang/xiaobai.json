@@ -28,15 +28,126 @@
             "filterable": 1,
             "ext": "http://45.207.11.9:6618"
         },
+         {
+      "key": "csp_AppTT",
+      "name": "🐰图图┃SP",
+      "type": 3,
+      "api": "csp_AppTT2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="
+    },
+    {
+      "key": "csp_BuLei",
+      "name": "💢布雷┃SP",
+      "type": 3,
+      "api": "csp_BuLei",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Tian",
+      "name": "🗽天天┃SP",
+      "type": 0,
+      "api": "csp_Dora",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "bdc1c75081e5e477189a463baa47e392"
+    },
+    {
+      "key": "csp_Vofl",
+      "name": "🎈Voflix┃SP",
+      "type": 3,
+      "api": "csp_Voflix",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_panghu",
+      "name": "🐯胖虎┃SP",
+      "type": 3,
+      "api": "csp_Panghu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Xinsj",
+      "name": "🐼新视觉┃SP",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
         {
-            "key": "csp_AppTT",
-            "name": "💦SP┃图图影视",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+      "key": "csp_Dy1010",
+      "name": "❤️双十┃SP",
+      "type": 3,
+      "api": "csp_Dy1010",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+         {
+      "key": "csp_Nmys",
+      "name": "🌾农民┃SP",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.饭太硬.ga/x/json/nmys.json"
+    },
+    {
+      "key": "csp_Ysgc",
+      "name": "🏭工厂┃SP",
+      "type": 3,
+      "api": "csp_Ysgc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_SP2345",
+      "name": "💦2345┃SP",
+      "type": 3,
+      "api": "csp_SP2345",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+        {
+      "key": "teng",
+      "name": "🐧腾腾┃SP",
+      "type": 3,
+      "api": "csp_QQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ai",
+      "name": "🐨爱奇┃SP",
+      "type": 3,
+      "api": "csp_IQIYI",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "MGT",
+      "name": "🍋芒果┃SP",
+      "type": 3,
+      "api": "csp_Mgtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
         {
             "key": "csp_Bd",
             "name": "💦SP┃哔嘀影视",
