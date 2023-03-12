@@ -29,14 +29,14 @@
       "ext": "http://124.248.66.89:7788/"
     },
     {
-      "key": "csp_AppTT",
-      "name": "🐰图图┃SP",
+      "key": "DNSP_spider",
+      "name": "酷酷影视",
       "type": 3,
-      "api": "csp_AppTT2",
+      "api": "csp_Dnsp",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="
+      "ext": "http://121.62.19.116:1996"
     },
     {
       "key": "csp_BuLei",
@@ -4535,34 +4535,6 @@
       }
     },
     {
-      "name": "左岸",
-      "type": 1,
-      "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "CL4K",
-          "renrenmi",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
-    },
-    {
       "name": "keyu",
       "type": 1,
       "url": "http://newjiexi.gotka.top/keyu3.php?url=",
@@ -4828,5 +4800,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "http://cdn.qiaoji8.com/qj230217.jar;md5;95566ff667dfc50036c34c20a5daaa8a"
+  "spider": "http://cdn.qiaoji8.com/fix230228.jar;md5;4f2d69de1285efa0a0e72c038de026e2"
 }
