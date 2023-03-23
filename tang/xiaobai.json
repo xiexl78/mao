@@ -4380,7 +4380,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3hpZXhsNzgvbWFvL21haW4vdGFuZy90di9saXZlLnR4dA=="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly94aWV4bDc4LmdpdGh1Yi5pby9tYW8vbWFpbi90YW5nL3R2L2xpdmUudHh0"
           ]
         }
       ]
