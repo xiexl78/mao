@@ -38,6 +38,15 @@
       "filterable": 1,
       "ext": "http://121.62.19.116:1996"
     },
+     {
+      "key": "mayiys_spider",
+      "name": "蚂蚁影视",
+      "type": 3,
+      "api": "csp_Mayiys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "csp_BuLei",
       "name": "💢布雷┃SP",
@@ -203,7 +212,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://api-tx.shumaxc.xyz"
+      "ext": "https://api-tx.11ty.top"
     },
     {
       "key": "百影视频",
