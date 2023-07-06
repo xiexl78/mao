@@ -743,15 +743,6 @@
       "filterable": 1
     },
     {
-      "key": "蓝光电影",
-      "name": "蓝光电影",
-      "type": 3,
-      "api": "csp_Lgdyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_CZSPP",
       "name": "🐞厂长资源",
       "type": 3,
