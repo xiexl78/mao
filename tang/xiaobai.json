@@ -122,6 +122,62 @@
       "filterable": 1
     },
     {
+      "key": "南瓜影视",
+      "name": "南瓜影视",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "油果视频",
+      "name": "油果视频",
+      "type": 3,
+      "api": "csp_Youguo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "EMO",
+      "name": "EMO蓝光",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://154.31.2.112:8868/mogai_api.php/v1.vod"
+    },
+    {
+      "key": "多多美剧",
+      "name": "多多美剧",
+      "type": 3,
+      "api": "csp_DDMJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://zhuiju.co"
+    },
+    {
+      "key": "影视王朝",
+      "name": "影视王朝",
+      "type": 3,
+      "api": "csp_Yswc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "时常影视",
+      "name": "时常影视",
+      "type": 3,
+      "api": "csp_SC1080",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "csp_SP2345",
       "name": "💦2345┃SP",
       "type": 3,
@@ -682,6 +738,15 @@
       "name": "🐼Cokemv(SP)",
       "type": 3,
       "api": "csp_Cokemv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "蓝光电影",
+      "name": "蓝光电影",
+      "type": 3,
+      "api": "csp_Lgdyy",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -4846,5 +4911,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "http://cdn.qiaoji8.com/fix0610.jar;md5;a264d33e664119fed5af99338def9ca4"
+  "spider": "http://cdn.qiaoji8.com/fix0703.jar;md5;cee9f2d2db9e38f46933d836a9d8b674"
 }
