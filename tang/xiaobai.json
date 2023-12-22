@@ -19,16 +19,6 @@
       "filterable": 1
     },
     {
-      "key": "Tutu_spider",
-      "name": "🐞图图影视",
-      "type": 3,
-      "api": "csp_TutuYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "Sg7h4QoLLBzVV4acSRK#Huo0NEBdouelqiaojiSqX2k4qbYGi3o6sY"
-    },
-    {
       "key": "DNSP_spider",
       "name": "酷酷影视",
       "type": 3,
@@ -48,23 +38,14 @@
       "filterable": 1
     },
     {
-      "key": "csp_BuLei",
-      "name": "💢布雷┃SP",
+      "key": "天天",
+      "name": "天天┃App",
       "type": 3,
-      "api": "csp_BuLei",
+      "api": "csp_TTian",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Tian",
-      "name": "🗽天天┃SP",
-      "type": 0,
-      "api": "csp_Dora",
-      "searchable": 0,
-      "quickSearch": 0,
       "filterable": 0,
-      "ext": "bdc1c75081e5e477189a463baa47e392"
+      "ext": "http://op.ysdqjs.cn"
     },
     {
       "key": "csp_Vofl",
@@ -103,16 +84,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Nmys",
-      "name": "🌾农民┃SP",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.饭太硬.ga/x/json/nmys.json"
-    },
-    {
       "key": "csp_Ysgc",
       "name": "🏭工厂┃SP",
       "type": 3,
@@ -139,6 +110,46 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
+    },
+    {
+      "key": "巧技一",
+      "name": "巧技一┃App",
+      "type": 3,
+      "api": "csp_qiao2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"
+    },
+    {
+      "key": "巧技二",
+      "name": "巧技二┃App",
+      "type": 3,
+      "api": "csp_qiao2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"
+    },
+    {
+      "key": "巧技三",
+      "name": "巧技三┃App",
+      "type": 3,
+      "api": "csp_qiao2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"
+    },
+    {
+      "key": "巧技四",
+      "name": "巧技四┃App",
+      "type": 3,
+      "api": "csp_qiao2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"
     },
     {
       "key": "t4_wo",
@@ -207,7 +218,67 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "CWL+IfA5s3TICYJ8lk+lYcjPA/WXNYE4LRTfUSa9I+X9ibZY05syLe/O7u2miaiYRiSaKE51xQOxm38YeL27jRUyF6+GJKVQArnP7QbC+qw2okju8YACfPzD3rpQo8uckl2rQh925A6lp4VD0ELHJrUvDGTlojwKtynX78d5E88HbdSsCV5pIueNPH5+z42FBt21KGN5lnE7/qqEGpSyFzbARD4aWuhSHsun7GQU9yaXZn0F4l4o2YYaEvRtsz4z9Mo8+7aj2nZsCkFWLNpgv6kzFNohSTWVDkajg5aj6s7d8CPNIvvC+gr0zm79fuuvNQF6NfaiBOrvTwamMJa3F3w=="
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/tvbyb"
+    },
+    {
+      "key": "嘶哩",
+      "name": "嘶哩┃动漫",
+      "type": 3,
+      "api": "csp_Skapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/sili"
+    },
+    {
+      "key": "侠客",
+      "name": "侠客┃App",
+      "type": 3,
+      "api": "csp_qiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/heihei"
+    },
+    {
+      "key": "欣欣",
+      "name": "欣欣┃App",
+      "type": 3,
+      "api": "csp_qiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/xinxin"
+    },
+    {
+      "key": "超神",
+      "name": "超神┃App",
+      "type": 3,
+      "api": "csp_qiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/chaoshen"
+    },
+    {
+      "key": "云云",
+      "name": "云云┃App",
+      "type": 3,
+      "api": "csp_qiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/laohu"
+    },
+    {
+      "key": "樱花",
+      "name": "樱花┃动漫",
+      "type": 3,
+      "api": "csp_qiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/yinghua"
     },
     {
       "key": "嘿嘿",
@@ -248,6 +319,16 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "LV06Bwf1IqCvCECepSCn4qV2bM4V8EBht1OE3hBzrH9GyAa8/a41aynh8h0yAhuYumDP/bS0DA1QnbmPRQKyikp05fgrDnFaxHJFP287vblsUg3Q5QwZlm5WEp4xp0L/HjE+V5fYmLwo8aZAblR9YJvgraRiCBewvH9+cWN+TR7iTBufOdDXsDZpY4vUy6XvHMx2+qkgXCSU5yYvuErBsEDKS2PuGmDmHBpq5W6xZ3xHZZQfZreVaKwt8LElzh5RaVKRn5NbEChpQt2C0wqPmedbjpgu/GYH/LLceQUK5w0LMUZKBAQo6PTwgSgkzolcJnzperBpnIhC7uY+n8a3D9UZB8KDx+wsqai9M9bH5d5+/3flwaYMEVRmmOMgtGxAQr0wqhFltPCEtDvnHltBj6MZitjQZV1Tta0nwoP2awf2R3JIYwm7S5ph4m8RWts/SGrD/n9NrmRnB5rLa0M6VHMGp+s/kXzHmul50DmOXQryhMOg+V+z5kFucczLSCLBur4bqaVuAKo57Wcn1Tle61LOpqWBwEL3m9nZ9ht3vrIncP3dRvwAvgos1eGhlQuQJX9cyR7nV5D8nnEGDQ0nFnDx1Ub6gK48gpItiVE3657JLlaq/d1NszzvxwREtCnOpfFWT03o3VHwR9tDPsz7L2wj6BQr7Zo7X/Vqu4bbL2CI="
+    },
+    {
+      "key": "星星",
+      "name": "星星2┃App",
+      "type": 3,
+      "api": "csp_qiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/xingxing"
     },
     {
       "key": "mino",
@@ -381,7 +462,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://www.libvio.fun/static/js/playerconfig.js"
+      "ext": "https://www.libvio.pro/static/js/playerconfig.js"
     },
     {
       "key": "时常",
@@ -1006,12 +1087,13 @@
     },
     {
       "key": "csp_CZSPP",
-      "name": "🐞厂长资源",
+      "name": "厂长┃直连",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 0,
+      "ext": "https://czz9.com/"
     },
     {
       "key": "csp_Buka",
@@ -4451,5 +4533,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "http://cdn.qiaoji8.com/fix1110.jar;md5;3c3cd629e6463d91c11585d727722580"
+  "spider": "http://cdn.qiaoji8.com/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32"
 }
