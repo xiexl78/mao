@@ -48,6 +48,45 @@
       "ext": "http://op.ysdqjs.cn"
     },
     {
+      "key": "热播",
+      "name": "热播┃App",
+      "type": 3,
+      "api": "csp_TTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://v.rbotv.cn"
+    },
+    {
+      "key": "追剧",
+      "name": "追剧┃App",
+      "type": 3,
+      "api": "csp_TTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://app.kzjtv.com"
+    },
+    {
+      "key": "发电",
+      "name": "发电┃App",
+      "type": 3,
+      "api": "csp_Fdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "柠檬",
+      "name": "柠檬┃App",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://api.cnmcom.com/webcloud/nmsvip.php?url="
+    },
+    {
       "key": "csp_Vofl",
       "name": "🎈Voflix┃SP",
       "type": 3,
@@ -152,16 +191,15 @@
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"
     },
     {
-            "key": "巧技五",
-            "name": "巧技五┃App",
-            "type": 3,
-            "api": "csp_qiao2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": 2,
-            "filterable": 1,
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5"
-        },
+      "key": "巧技五",
+      "name": "巧技五┃App",
+      "type": 3,
+      "api": "csp_qiao2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5"
+    },
     {
       "key": "t4_wo",
       "name": "云盘┃直连",
@@ -315,24 +353,22 @@
       "key": "星星",
       "name": "星星┃App",
       "type": 3,
-      "api": "csp_Appto",
+      "api": "csp_qiao",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "DRKzxyMKvtSwY8KlZf2E0UaodOFwpc55fZ8i/57cIgQJHQLy6PnKLAAj9UrkpoexlNCAomzVttbI6D6TEnlHNVDqRhIQqGlHt8m6PjVxP7PSlmraDar52uqEU7UXaaV+UGqz0bc9q95VVRMK4uX5l674wT+p5Cp2QGr1D24Uz7QNkA6GgkDGW/ezLoYsXUCc7xsDK5ev51cJxn0cIJClFysrOGsTvyLYjYIF2ktu+F36QVcAsAvA6Jpyz2hSTlWadidOt2m81TA5yrfAKjBILuQ63gcnyXh6SH9VjER5dL2KD8iTVBAN3L9TlQqDHPr64N0D6mAldXLMYJM/RrTUznCbIno7V/eTT+YqnLWNekVigNB8Q7Fp3WgMYfk73VYcOqPKO2qwQWyJqaQDW4Uo7nFrQWttqYAwWEDhjM/ABuYLkLX9V83/QFOPkhBJZ+eQoqsiVP3ZugFGB5/XuVZkoYWaG00BRQ3j55vTflJ2ne0WQcFAj6GcYNLodkII4Ji53kVoL+w55Cc9PmtSR1tynlWDylYBfkJbtDOJSuEUKDnKiD/ZFqMAejQFV9EcZr1g6QbLIf/FRldeLYRxsYsWPFc2STqEdgGA+osyO/zzyaeZLH5AJ02l7kKyMxKMPaRF2MGX1DPnZHrbXA4u0A5Vy3M3IMFNZaR0f08C4KDDi1xY="
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/xingxing"
     },
     {
-            "key": "喵播",
-            "name": "喵播┃App",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2,
-            "ext": "http://111.230.51.151:9696/api.php/app/"
-        },
-  
+      "key": "喵播",
+      "name": "喵播┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://111.230.51.151:9696/api.php/app/"
+    },
     {
       "key": "星星",
       "name": "星星2┃App",
@@ -433,12 +469,12 @@
     {
       "key": "K影",
       "name": "K影院┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
+      "type": 1,
+      "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
+      "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://iosa.xn--654a.cc/api.php/app/"
+      "filterable": 0
     },
     {
       "key": "JianPian",
@@ -459,16 +495,15 @@
       "filterable": 0
     },
     {
-            "key": "蚂蚁",
-            "name": "蚂蚁┃App",
-            "type": 3,
-            "api": "csp_Mayiys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "playerType": 2,
-            "ext": "http://www.rzys.cc"
-        },
+      "key": "蚂蚁",
+      "name": "蚂蚁┃App",
+      "type": 3,
+      "api": "csp_Mayiys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://www.rzys.cc|rzys875|182"
+    },
     {
       "key": "看看",
       "name": "看看┃App",
@@ -490,14 +525,15 @@
     },
     {
       "key": "时常",
-      "name": "时常┃直连",
+      "name": "时常┃APP",
       "type": 3,
-      "api": "csp_SC1080",
+      "api": "csp_qiao3",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 0,
+      "ext": "https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"
     },
-        {
+    {
       "key": "EMO",
       "name": "EMO蓝光",
       "type": 3,
@@ -1108,7 +1144,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://www.czzy66.com/"
+      "ext": "https://www.czzy55.com/"
     },
     {
       "key": "csp_Buka",
@@ -4088,7 +4124,7 @@
     }
   ],
   "lives": [
-       {
+    {
       "group": "央视",
       "channels": [
         {
@@ -5542,5 +5578,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"
+  "spider": "http://cdn.qiaoji8.com/fix24225.jar;md5;fe4c16637b991d41b2ff6b6e4df3c246"
 }
