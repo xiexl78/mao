@@ -84,7 +84,55 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://api.cnmcom.com/webcloud/nmapl/anmm.php?url="
+      "ext": "https://api.cnmcom.com/webcloud/relay.php?url="
+    },
+    {
+      "key": "月亮",
+      "name": "月亮┃App",
+      "type": 3,
+      "api": "csp_Ylys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "鸣人",
+      "name": "鸣人┃直连",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "AI2",
+      "name": "AI2┃仅搜索",
+      "type": 3,
+      "api": "csp_AI",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji"
+    },
+    {
+      "key": "AI3",
+      "name": "AI3┃仅搜索",
+      "type": 3,
+      "api": "csp_AI",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://124.222.116.5/mb/sxys/api.php/provide/vod/|okhttp/4.9.1|qiaoji"
+    },
+    {
+      "key": "AI4",
+      "name": "AI4┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://39.98.32.241:6688/api.php/zjv3.vod"
     },
     {
       "key": "csp_Vofl",
@@ -5148,7 +5196,7 @@
     {
       "name": "巧技",
       "type": 1,
-      "url": "https://www.qiaoji8.com/tvbox/json.php?url=",
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -5158,7 +5206,6 @@
           "奇艺",
           "youku",
           "优酷",
-          "tucheng",
           "sohu",
           "搜狐",
           "letv",
@@ -5167,17 +5214,12 @@
           "芒果",
           "tnmb",
           "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
           "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
       }
     },
     {
@@ -5578,5 +5620,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "http://cdn.qiaoji8.com/fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa"
+  "spider": "http://cdn.qiaoji8.com/fix240620.jar;md5;2e3f4dbde933d61722e64ee807500398"
 }
