@@ -10,8 +10,8 @@
       "filterable": 1
     },
     {
-      "key": "快看影视",
-      "name": "🐞快看影视",
+      "key": "快看",
+      "name": "快看┃直连",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -29,13 +29,14 @@
       "ext": "http://121.62.19.116:1996"
     },
     {
-      "key": "mayiys_spider",
-      "name": "蚂蚁影视",
+      "key": "蚂蚁",
+      "name": "蚂蚁┃App",
       "type": 3,
       "api": "csp_Mayiys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0,
+      "ext": "jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0"
     },
     {
       "key": "天天",
@@ -45,7 +46,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://op.ysdqjs.cn"
+      "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="
     },
     {
       "key": "热播",
@@ -55,7 +56,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://v.rbotv.cn"
+      "ext": "caHR0cDovL3YucmJvdHYuY24="
     },
     {
       "key": "追剧",
@@ -65,7 +66,46 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://app.kzjtv.com"
+      "ext": "daHR0cDovL3oua3pqdHYuY29t"
+    },
+    {
+      "key": "木叶",
+      "name": "木叶┃App",
+      "type": 3,
+      "api": "csp_Muye",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "cMS4wLjd8aHR0cDovLzExMy40NS4xMzUuMTAwOjEyMzU2fDEyY2ExNTNjfDEwMDd8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
+    },
+    {
+      "key": "繁荣",
+      "name": "繁荣┃App",
+      "type": 3,
+      "api": "csp_Frong",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"
+    },
+    {
+      "key": "现代",
+      "name": "现代┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "OMS4wLjB8aHR0cDovL2FwcC5icm92b2QudG9wfDQzNmE0NjI5fDIwMjQwNDI4fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDA5ZWUzNTE2YzFjYThlZDE="
+    },
+    {
+      "key": "雷电",
+      "name": "雷电┃App",
+      "type": 3,
+      "api": "csp_Slys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "发电",
@@ -84,7 +124,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://api.cnmcom.com/webcloud/relay.php?url="
+      "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
     },
     {
       "key": "月亮",
@@ -112,7 +152,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji"
+      "ext": "faHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvYXBpLnBocC9wcm92aWRlL3ZvZC98TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExOS4wLjAuMCBTYWZhcmkvNTM3LjMzfHFpYW9qaQ=="
     },
     {
       "key": "AI3",
@@ -122,7 +162,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://124.222.116.5/mb/sxys/api.php/provide/vod/|okhttp/4.9.1|qiaoji"
+      "ext": "haHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvc3h5cy9hcGkucGhwL3Byb3ZpZGUvdm9kL3xva2h0dHAvNC45LjF8cWlhb2pp"
     },
     {
       "key": "AI4",
@@ -132,7 +172,26 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://39.98.32.241:6688/api.php/zjv3.vod"
+      "ext": "iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q="
+    },
+    {
+      "key": "JianPian",
+      "name": "荐片[边下边播]",
+      "type": 3,
+      "api": "csp_JianPian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "jianpian-android/365"
+    },
+    {
+      "key": "Dygang",
+      "name": "电影港[边下边播]",
+      "type": 3,
+      "api": "csp_Dygang",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "csp_Vofl",
@@ -569,7 +628,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://www.libvio.pw/static/js/playerconfig.js"
+      "ext": "kaHR0cHM6Ly9saWJ2aW8ubGluay9zdGF0aWMvanMvcGxheWVyY29uZmlnLmpz"
     },
     {
       "key": "时常",
@@ -579,7 +638,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"
+      "ext": "laHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNhZDl8ZTU5ZDQ0YjJlZWYwM2FkOQ=="
     },
     {
       "key": "EMO",
@@ -733,7 +792,7 @@
     },
     {
       "key": "sliu_spider",
-      "name": "🐞石榴电影",
+      "name": "石榴┃直连",
       "type": 3,
       "api": "csp_ShiLiuDY",
       "searchable": 1,
@@ -751,7 +810,7 @@
     },
     {
       "key": "Bdys_spider",
-      "name": "🐞哔滴影视",
+      "name": "哔滴┃无搜索",
       "type": 3,
       "api": "csp_Bdys01",
       "searchable": 1,
@@ -868,7 +927,7 @@
     },
     {
       "key": "ZXZJ",
-      "name": "🐞在线之家",
+      "name": "在线┃直连",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -1192,7 +1251,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://www.czys03.com/"
+      "ext": "maHR0cHM6Ly93d3cuY3p6eTc3LmNvbS8="
     },
     {
       "key": "csp_Buka",
@@ -1205,7 +1264,7 @@
     },
     {
       "key": "NoSearch_csp_DiDuan",
-      "name": "🐞低端影视",
+      "name": "低端┃无搜索",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
@@ -1286,36 +1345,6 @@
       "filterable": 0
     },
     {
-      "key": "csp_biubiu_ysgc",
-      "name": "🥒影视工厂(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/影视工厂.json"
-    },
-    {
-      "key": "csp_biubiu_555",
-      "name": "🥒555影院(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/555.json"
-    },
-    {
-      "key": "csp_biubiu_lezhu",
-      "name": "🥒乐猪(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/lezhutv.json"
-    },
-    {
       "key": "789看片",
       "name": "789看片(XP)",
       "type": 3,
@@ -1383,906 +1412,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    },
-    {
-      "key": "csp_biubiu_厂长资源-蓝光",
-      "name": "🥒厂长资源-蓝光(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/厂长资源-蓝光.json"
-    },
-    {
-      "key": "csp_biubiu_特狗影视",
-      "name": "🥒特狗影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/特狗影视.json"
-    },
-    {
-      "key": "csp_biubiu_喜鹊视频",
-      "name": "🥒喜鹊视频(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/喜鹊视频.json"
-    },
-    {
-      "key": "csp_biubiu_瓜皮TV",
-      "name": "🥒瓜皮TV(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/瓜皮TV.json"
-    },
-    {
-      "key": "csp_biubiu_真的卡影院",
-      "name": "🥒真的卡影院(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/真的卡影院.json"
-    },
-    {
-      "key": "csp_biubiu_荣耀Glory",
-      "name": "🥒荣耀Glory(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/荣耀Glory.json"
-    },
-    {
-      "key": "csp_biubiu_87影院",
-      "name": "🥒87影院(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/87影院.json"
-    },
-    {
-      "key": "csp_biubiu_蓝光影院",
-      "name": "🥒蓝光影院(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/蓝光影院.json"
-    },
-    {
-      "key": "csp_biubiu_干饭影视",
-      "name": "🥒干饭影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/干饭影视.json"
-    },
-    {
-      "key": "csp_biubiu_虚拟影院",
-      "name": "🥒虚拟影院(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/虚拟影院.json"
-    },
-    {
-      "key": "csp_biubiu_OmoFun动漫",
-      "name": "🥒OmoFun动漫(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/OmoFun动漫.json"
-    },
-    {
-      "key": "csp_biubiu_去看吧",
-      "name": "🥒去看吧(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/去看吧.json"
-    },
-    {
-      "key": "csp_biubiu_次元城",
-      "name": "🥒次元城(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/次元城.json"
-    },
-    {
-      "key": "csp_biubiu_风车动漫",
-      "name": "🥒风车动漫(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/风车动漫.json"
-    },
-    {
-      "key": "csp_biubiu_森屋新番",
-      "name": "🥒森屋新番(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/森屋新番.json"
-    },
-    {
-      "key": "csp_biubiu_漫岛动漫",
-      "name": "🥒漫岛动漫(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/漫岛动漫.json"
-    },
-    {
-      "key": "csp_biubiu_打驴动漫",
-      "name": "🥒打驴动漫(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/打驴动漫.json"
-    },
-    {
-      "key": "csp_biubiu_维奇动漫",
-      "name": "🥒维奇动漫(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/维奇动漫.json"
-    },
-    {
-      "key": "csp_biubiu_真不卡影院(不支持搜索)",
-      "name": "🥒真不卡影院(不支持搜索)(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/真不卡影院(不支持搜索).json"
-    },
-    {
-      "key": "csp_biubiu_在线之家",
-      "name": "🥒在线之家(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/在线之家.json"
-    },
-    {
-      "key": "csp_biubiu_COKEMV",
-      "name": "🥒COKEMV(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/COKEMV.json"
-    },
-    {
-      "key": "csp_biubiu_影视工厂",
-      "name": "🥒影视工厂(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/影视工厂.json"
-    },
-    {
-      "key": "csp_biubiu_双十电影",
-      "name": "🥒双十电影(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/双十电影.json"
-    },
-    {
-      "key": "csp_biubiu_555电影",
-      "name": "🥒555电影(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/555电影.json"
-    },
-    {
-      "key": "csp_biubiu_骚火电影",
-      "name": "🥒骚火电影(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/骚火电影.json"
-    },
-    {
-      "key": "csp_biubiu_周末电影",
-      "name": "🥒周末电影(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/周末电影.json"
-    },
-    {
-      "key": "csp_biubiu_剧白白-蓝光",
-      "name": "🥒剧白白-蓝光(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/剧白白-蓝光.json"
-    },
-    {
-      "key": "csp_biubiu_火火影视",
-      "name": "🥒火火影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/火火影视.json"
-    },
-    {
-      "key": "csp_biubiu_天空资源",
-      "name": "🥒天空资源(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/天空资源.json"
-    },
-    {
-      "key": "csp_biubiu_完美看看影视",
-      "name": "🥒完美看看影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/完美看看影视.json"
-    },
-    {
-      "key": "csp_biubiu_达达龟",
-      "name": "🥒达达龟(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/达达龟.json"
-    },
-    {
-      "key": "csp_biubiu_乐猪影视",
-      "name": "🥒乐猪影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/乐猪影视.json"
-    },
-    {
-      "key": "csp_biubiu_口袋影院",
-      "name": "🥒口袋影院(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/口袋影院.json"
-    },
-    {
-      "key": "csp_biubiu_黑洞影视",
-      "name": "🥒黑洞影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/黑洞影视.json"
-    },
-    {
-      "key": "csp_biubiu_神马影视",
-      "name": "🥒神马影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/神马影视.json"
-    },
-    {
-      "key": "csp_biubiu_六度TV",
-      "name": "🥒六度TV(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/六度TV.json"
-    },
-    {
-      "key": "csp_biubiu_花猫TV",
-      "name": "🥒花猫TV(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/花猫TV.json"
-    },
-    {
-      "key": "csp_biubiu_348电影网",
-      "name": "🥒348电影网(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/348电影网.json"
-    },
-    {
-      "key": "csp_biubiu_GIMY影视",
-      "name": "🥒GIMY影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/GIMY影视.json"
-    },
-    {
-      "key": "csp_biubiu_GimyTV",
-      "name": "🥒GimyTV(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/GimyTV.json"
-    },
-    {
-      "key": "csp_biubiu_YYDS影院",
-      "name": "🥒YYDS影院(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/YYDS影院.json"
-    },
-    {
-      "key": "csp_biubiu_思乐影视",
-      "name": "🥒思乐影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/思乐影视.json"
-    },
-    {
-      "key": "csp_biubiu_开心果电影网",
-      "name": "🥒开心果电影网(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/开心果电影网.json"
-    },
-    {
-      "key": "csp_biubiu_如如影视",
-      "name": "🥒如如影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/如如影视.json"
-    },
-    {
-      "key": "csp_biubiu_VIP电影院",
-      "name": "🥒VIP电影院(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/VIP电影院.json"
-    },
-    {
-      "key": "csp_biubiu_看一看影视",
-      "name": "🥒看一看影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/看一看影视.json"
-    },
-    {
-      "key": "csp_biubiu_789影视",
-      "name": "🥒789影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/789影视.json"
-    },
-    {
-      "key": "csp_biubiu_人人影视",
-      "name": "🥒人人影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/人人影视.json"
-    },
-    {
-      "key": "csp_biubiu_31看影视",
-      "name": "🥒31看影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/31看影视.json"
-    },
-    {
-      "key": "csp_biubiu_小强迷",
-      "name": "🥒小强迷(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/小强迷.json"
-    },
-    {
-      "key": "csp_biubiu_chok8电影",
-      "name": "🥒chok8电影(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/chok8电影.json"
-    },
-    {
-      "key": "csp_biubiu_九州影视",
-      "name": "🥒九州影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/九州影视.json"
-    },
-    {
-      "key": "csp_biubiu_融兴影视",
-      "name": "🥒融兴影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/融兴影视.json"
-    },
-    {
-      "key": "csp_biubiu_鸭奈飞",
-      "name": "🥒鸭奈飞(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/鸭奈飞.json"
-    },
-    {
-      "key": "csp_biubiu_爱港剧",
-      "name": "🥒爱港剧(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/爱港剧.json"
-    },
-    {
-      "key": "csp_biubiu_23影院",
-      "name": "🥒23影院(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/23影院.json"
-    },
-    {
-      "key": "csp_biubiu_VIP1280",
-      "name": "🥒VIP1280(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/VIP1280.json"
-    },
-    {
-      "key": "csp_biubiu_小熊影视",
-      "name": "🥒小熊影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/小熊影视.json"
-    },
-    {
-      "key": "csp_biubiu_手机看剧",
-      "name": "🥒手机看剧(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/手机看剧.json"
-    },
-    {
-      "key": "csp_biubiu_创艺影视",
-      "name": "🥒创艺影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/创艺影视.json"
-    },
-    {
-      "key": "csp_biubiu_炫猫影视",
-      "name": "🥒炫猫影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/炫猫影视.json"
-    },
-    {
-      "key": "csp_biubiu_奈落影院",
-      "name": "🥒奈落影院(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/奈落影院.json"
-    },
-    {
-      "key": "csp_biubiu_神马影院",
-      "name": "🥒神马影院(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/神马影院.json"
-    },
-    {
-      "key": "csp_biubiu_哔嘀影视",
-      "name": "🥒哔嘀影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/哔嘀影视.json"
-    },
-    {
-      "key": "csp_biubiu_利丽娅电影",
-      "name": "🥒利丽娅电影(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/利丽娅电影.json"
-    },
-    {
-      "key": "csp_biubiu_奈菲影院",
-      "name": "🥒奈菲影院(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/奈菲影院.json"
-    },
-    {
-      "key": "csp_biubiu_七年影视",
-      "name": "🥒七年影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/七年影视.json"
-    },
-    {
-      "key": "csp_biubiu_大象TV",
-      "name": "🥒大象TV(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/大象TV.json"
-    },
-    {
-      "key": "csp_biubiu_4kan电影网",
-      "name": "🥒4kan电影网(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/4kan电影网.json"
-    },
-    {
-      "key": "csp_biubiu_蓝莓影视",
-      "name": "🥒蓝莓影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/蓝莓影视.json"
-    },
-    {
-      "key": "csp_biubiu_奇优影院（不支持搜）",
-      "name": "🥒奇优影院（不支持搜）(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/奇优影院（不支持搜）.json"
-    },
-    {
-      "key": "csp_biubiu_影渣渣",
-      "name": "🥒影渣渣(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/影渣渣.json"
-    },
-    {
-      "key": "csp_biubiu_牛马TV",
-      "name": "🥒牛马TV(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/牛马TV.json"
-    },
-    {
-      "key": "csp_biubiu_飘花播播",
-      "name": "🥒飘花播播(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/飘花播播.json"
-    },
-    {
-      "key": "csp_biubiu_星空影视",
-      "name": "🥒星空影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/星空影视.json"
-    },
-    {
-      "key": "csp_biubiu_豆角网",
-      "name": "🥒豆角网(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/豆角网.json"
-    },
-    {
-      "key": "csp_biubiu_尘落影院",
-      "name": "🥒尘落影院(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/尘落影院.json"
-    },
-    {
-      "key": "csp_biubiu_city电影",
-      "name": "🥒city电影(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/city电影.json"
-    },
-    {
-      "key": "csp_biubiu_小傻瓜",
-      "name": "🥒小傻瓜(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/小傻瓜.json"
-    },
-    {
-      "key": "csp_biubiu_电影馆",
-      "name": "🥒电影馆(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/电影馆.json"
-    },
-    {
-      "key": "csp_biubiu_爱看影视",
-      "name": "🥒爱看影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/爱看影视.json"
-    },
-    {
-      "key": "csp_biubiu_视中心影院",
-      "name": "🥒视中心影院(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/视中心影院.json"
-    },
-    {
-      "key": "csp_biubiu_老茶馆",
-      "name": "🥒老茶馆(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/老茶馆.json"
-    },
-    {
-      "key": "csp_biubiu_凛冬又至",
-      "name": "🥒凛冬又至(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/凛冬又至.json"
-    },
-    {
-      "key": "csp_biubiu_红领巾",
-      "name": "🥒红领巾(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/红领巾.json"
-    },
-    {
-      "key": "csp_biubiu_老电影",
-      "name": "🥒老电影(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/老电影.json"
-    },
-    {
-      "key": "csp_biubiu_Nike影视网",
-      "name": "🥒Nike影视网(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/Nike影视网.json"
-    },
-    {
-      "key": "csp_biubiu_伊雪湾",
-      "name": "🥒伊雪湾(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/伊雪湾.json"
-    },
-    {
-      "key": "csp_biubiu_极品影视",
-      "name": "🥒极品影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/极品影视.json"
-    },
-    {
-      "key": "csp_biubiu_139影视",
-      "name": "🥒139影视(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://xiexl78.github.io/mao/tang/MeowXB/139影视.json"
     },
     {
       "key": "csp_xpath_独播库",
@@ -4566,7 +3695,7 @@
           "name": "周星馳",
           "urls": [
             "http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8",
-            "https://hw.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8",
+            "http://124.248.69.76:35455/huya/11336587",
             "http://183.232.171.91/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8",
             "http://183.232.171.91/tx.hls.huya.com/src/1199563481163-1199563481163-5444324506032144384-2399127085782-10057-A-0-1.m3u8",
             "http://183.232.171.91/tx.hls.huya.com/src/1199561277724-1199561277724-5434860807588413440-2399122678904-10057-A-0-1.m3u8",
@@ -5030,7 +4159,7 @@
         {
           "name": "凤凰中文",
           "urls": [
-            "http://ott.js.chinamobile.com/TVOD/3/224/3221228057/index.m3u8",
+            "http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8",
             "http://v.mp.haue.edu.cn/hls/fhzw.m3u8",
             "http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8",
             "http://iptv.tvfix.org/hls/fhzw.m3u8",
@@ -5055,7 +4184,7 @@
         {
           "name": "凤凰资讯",
           "urls": [
-            "http://ott.js.chinamobile.com/TVOD/3/224/3221228098/index.m3u8",
+            "http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8",
             "http://v.mp.haue.edu.cn/hls/fhzx.m3u8",
             "http://66.90.88.132:8080/hls/ph00452/index.m3u8",
             "http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8",
@@ -5223,9 +4352,9 @@
       }
     },
     {
-      "name": "巧技解析",
+      "name": "巧技二",
       "type": 1,
-      "url": "http://pandown.pro/app/kkdy.php?url=",
+      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -5241,12 +4370,15 @@
           "乐视",
           "mgtv",
           "芒果",
-          "rx",
-          "ltnb",
+          "tnmb",
+          "seven",
           "bilibili",
           "1905",
-          "xigua"
-        ]
+          "NetFilx"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
       }
     },
     {
@@ -5620,5 +4752,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "http://cdn.qiaoji8.com/fix240620.jar;md5;2e3f4dbde933d61722e64ee807500398"
+  "spider": "http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432"
 }
