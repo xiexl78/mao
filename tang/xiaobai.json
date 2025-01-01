@@ -46,37 +46,57 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "daHR0cDovL2FwaS5remp0di5jb20="
+      "ext": "daHR0cDovL3YubGt1eXMuY24="
     },
     {
-      "key": "雨夜",
-      "name": "雨夜┃App",
+      "key": "剧评",
+      "name": "剧评┃App",
+      "type": 3,
+      "api": "csp_Jpys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
+    },
+    {
+      "key": "木头",
+      "name": "木头┃App",
+      "type": 3,
+      "api": "csp_Shark",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
+    },
+    {
+      "key": "世纪",
+      "name": "世纪┃App",
+      "type": 3,
+      "api": "csp_Drama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUaw=="
+    },
+    {
+      "key": "星河",
+      "name": "星河┃App",
       "type": 3,
       "api": "csp_Muou",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "caHR0cDovL2FwcC55aXlpNTIxLnRvcC8="
+      "ext": "caHR0cDovL2EubXVxaXhoLnRvcDo1NjIzfOW5leWQr+aYn+aysw=="
     },
     {
-      "key": "乐观",
-      "name": "乐观┃App",
+      "key": "荣荣",
+      "name": "荣荣┃App",
       "type": 3,
       "api": "csp_Xdai",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx"
-    },
-    {
-      "key": "人人",
-      "name": "人人┃ 4K",
-      "type": 3,
-      "api": "csp_Xdai",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "caHR0cDovL3JlbnJlbi5jdXBmb3gxLmNjOjc3ODh8MzFjOTNjN2JjMjExZDczNHwzMWM5M2M3YmMyMTFkNzM0"
+      "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS9qaWVrb3UudHh0fEY1MUY1RDUyRDIzQ0JGMjd8RjUxRjVENTJEMjNDQkYyN3wxOTE="
     },
     {
       "key": "雨滴",
@@ -86,7 +106,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA"
+      "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
+    },
+    {
+      "key": "现代",
+      "name": "现代┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"
     },
     {
       "key": "优质",
@@ -96,7 +126,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkcw"
+      "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="
     },
     {
       "key": "客星",
@@ -106,27 +136,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "caHR0cDovLzE1NC4zNy4yMjAuMTc6NjYyMnw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM="
+      "ext": "caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWN8MTAw"
     },
     {
       "key": "木叶",
       "name": "木叶┃App",
       "type": 3,
-      "api": "csp_Frong",
+      "api": "csp_Xdai",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"
-    },
-    {
-      "key": "繁荣",
-      "name": "繁荣┃App",
-      "type": 3,
-      "api": "csp_Frong",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"
+      "ext": "saHR0cHM6Ly94Y2Jhb3RhLm9zcy1jbi1xaW5nZGFvLmFsaXl1bmNzLmNvbS9nZXRhcHBfdjQudHh0fDZ2YXhqbjR2YmtyaHN6cDh8NnZheGpuNHZia3Joc3pwOHwxMDA="
     },
     {
       "key": "雷电",
@@ -136,16 +156,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="
+      "ext": "caHR0cDovLzExNC4xMDAuNDguNTI6MTgwMDg="
     },
     {
-      "key": "发电",
-      "name": "发电┃App",
+      "key": "蝴蝶",
+      "name": "蝴蝶┃App",
       "type": 3,
-      "api": "csp_Fdys",
+      "api": "csp_Hudie",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 0,
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
     {
       "key": "柠檬",
@@ -155,25 +176,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
-    },
-    {
-      "key": "月亮",
-      "name": "月亮┃App",
-      "type": 3,
-      "api": "csp_Ylys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "鸣人",
-      "name": "鸣人┃直连",
-      "type": 1,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+      "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
     },
     {
       "key": "AI2",
@@ -183,7 +186,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "faHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvYXBpLnBocC9wcm92aWRlL3ZvZC98TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExOS4wLjAuMCBTYWZhcmkvNTM3LjMzfHFpYW9qaQ=="
+      "ext": "faHR0cDovLzE3NS4xNzguODAuMjA5L21iL2FwaS5waHAvcHJvdmlkZS92b2QvfE1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTkuMC4wLjAgU2FmYXJpLzUzNy4zM3xxaWFvamk="
     },
     {
       "key": "AI3",
@@ -193,7 +196,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "haHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvc3h5cy9hcGkucGhwL3Byb3ZpZGUvdm9kL3xva2h0dHAvNC45LjF8cWlhb2pp"
+      "ext": "haHR0cDovLzE3NS4xNzguODAuMjA5L21iL3N4eXMvYXBpLnBocC9wcm92aWRlL3ZvZC98b2todHRwLzQuOS4xfHFpYW9qaQ=="
     },
     {
       "key": "AI4",
@@ -203,7 +206,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q="
+      "ext": "iaHR0cDovL3d3dy5qaXV5dHYuY2MvaWNjaXVfYXBpLnBocC92MS52b2Q="
     },
     {
       "key": "JianPian",
@@ -223,6 +226,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "蚂蚁",
+      "name": "蚂蚁┃App",
+      "type": 3,
+      "api": "csp_Mayiys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0"
     },
     {
       "key": "csp_Vofl",
@@ -287,56 +300,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
-    },
-    {
-      "key": "巧技一",
-      "name": "巧技一┃App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"
-    },
-    {
-      "key": "巧技二",
-      "name": "巧技二┃App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"
-    },
-    {
-      "key": "巧技三",
-      "name": "巧技三┃App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"
-    },
-    {
-      "key": "巧技四",
-      "name": "巧技四┃App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"
-    },
-    {
-      "key": "巧技五",
-      "name": "巧技五┃App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5"
     },
     {
       "key": "t4_wo",
@@ -493,34 +456,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "JianPian",
-      "name": "荐片[边下边播]",
-      "type": 3,
-      "api": "csp_JianPian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "Dygang",
-      "name": "电影港[边下边播]",
-      "type": 3,
-      "api": "csp_Dygang",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "蚂蚁",
-      "name": "蚂蚁┃App",
-      "type": 3,
-      "api": "csp_Mayiys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0"
     },
     {
       "key": "看看",
@@ -1371,16 +1306,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "Zjdr",
-      "name": "追剧达人",
-      "type": 0,
-      "api": "csp_Dora",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "778e8966ec0e9c0ae0b4682ad3550f40"
     },
     {
       "key": "Lgyy",
@@ -5026,5 +4951,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "http://cdn.qiaoji8.com/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+  "spider": "http://cdn.qiaoji8.com/fix241229.jar;md5;e2f6fb5ea2da8edfd8e321f8eb5a8b48"
 }
