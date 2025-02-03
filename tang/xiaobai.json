@@ -28,16 +28,14 @@
       "filterable": 0,
       "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="
     },
-    {
-      "key": "世纪",
-      "name": "世纪┃App",
-      "type": 3,
-      "api": "csp_Drama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "saHR0cDovLzExMC40Mi40OS42ODo4OTAwfENEQjZXTU5BTVhCRFNGRFVVS1hJRU1PMVVHMU1VTEoxfDJDMUEwNkUxOTdFRjEwQ0YzRjYwNThDQTdBODAzQjVafDIw"
-    },
+{
+            "key": "世纪",
+            "name": "世纪┃App",
+            "type": 3,
+            "api": "csp_Drama",
+            "playerType": 2,
+            "ext": "saHR0cDovLzExMC40Mi40OS42ODo4OTAwfENEQjZXTU5BTVhCRFNGRFVVS1hJRU1PMVVHMU1VTEoxfDJDMUEwNkUxOTdFRjEwQ0YzRjYwNThDQTdBODAzQjVafDIw"
+        },
     {
       "key": "热播",
       "name": "热播┃App",
@@ -68,16 +66,14 @@
       "filterable": 0,
       "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
     },
-    {
-      "key": "图图",
-      "name": "图图┃App",
-      "type": 3,
-      "api": "csp_APPTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
-    },
+ {
+            "key": "图图",
+            "name": "图图┃App",
+            "type": 3,
+            "api": "csp_APPTT",
+            "playerType": 1,
+            "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
+        },
     {
       "key": "木头",
       "name": "木头┃App",
@@ -88,6 +84,7 @@
       "filterable": 0,
       "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
     },
+   
     {
       "key": "星河",
       "name": "星河┃App",
@@ -108,16 +105,14 @@
       "filterable": 0,
       "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"
     },
-    {
-      "key": "时常",
-      "name": "时常┃App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
-    },
+{
+            "key": "时常",
+            "name": "时常┃App",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
+        },
     {
       "key": "雨滴",
       "name": "雨滴┃App",
@@ -138,16 +133,14 @@
       "filterable": 0,
       "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"
     },
-    {
-      "key": "玉米",
-      "name": "玉米┃App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "jaHR0cHM6Ly95bS1ycmNkbi1hb21lbmNsb3VkLnlteXMxLnh5enwxdmZmc2Rhc2Rhc2Rhc2QyfDF2ZmZzZGFzZGFzZGFzZDJ8MTA1"
-    },
+  {
+            "key": "玉米",
+            "name": "玉米┃App",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "jaHR0cHM6Ly95bS1ycmNkbi1hb21lbmNsb3VkLnlteXMxLnh5enwxdmZmc2Rhc2Rhc2Rhc2QyfDF2ZmZzZGFzZGFzZGFzZDJ8MTA1"
+        },
     {
       "key": "优质",
       "name": "优质┃App",
@@ -228,6 +221,7 @@
       "filterable": 0,
       "ext": "haHR0cDovLzE3NS4xNzguODAuMjA5L21iL3N4eXMvYXBpLnBocC9wcm92aWRlL3ZvZC98b2todHRwLzQuOS4xfHFpYW9qaQ=="
     },
+ 
     {
       "key": "Dygang",
       "name": "电影港[边下边播]",
@@ -247,6 +241,7 @@
       "filterable": 0,
       "ext": "jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0"
     },
+ 
     {
       "key": "csp_Ysgc",
       "name": "🏭工厂┃SP",
@@ -265,6 +260,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+   
     {
       "key": "t4_wo",
       "name": "云盘┃直连",
@@ -294,6 +290,7 @@
       "filterable": 1,
       "ext": "nbOdUoFXWvBmYlNj/qG8q6ytWFIZwtQPtFFI3cwHTOjM7FKVzTbwY0UHQEImlWb/pHq5gMm6LS2HhJI1m5+/s20tWUHsfJ1BIc4rlkWL5xqOQ/EhgcwCwcKi7ECmsFCBAxb69vZB0qXeElk+GDnHEPxoiB3EqjFfAJ88lClO/fKiZKGBnTdyRVG8VAvmercLgiklQwl6jSHVHanEdkZhMj2jIUEKsVeBWOocRzhJ/7457CvmQd/kLyTabYHJ+jrT7m4iVCnGDL7Aw5W+yeOF8FoH2zfTBBARd0o/8ACk+C7pbFTHI3HbjgiBWatiYevYz8buFQdxmSyXA1kgq5hi8WQ5f/STXW4vtO2ZfbVvEHE4T4MKyb1Cs9Hd0daU/Hb1dukLo9sV7fIisMWkr0UuDvYJJMq6xBU5vnFqxYwp59NsgGK/lc6P7oYWERiZWW6Oe/aVFSapfWILTqV1/UBrsjmgtK8XZTvY4hWh0khKyxwpdyQkQ1JzXfB+CHtM3cPXMKEol3PP9XoMLy4K93+/AH2ty15mcmpBfzip4mZmy8r0g+yV8vqaanhRcBDEvZMy0SgWW59YgbavdsNm7TeIrs/WasVtLrLeRPn5jvlc/Q4FXfx320XO3LI0jMqA0f++gQjCUvfsB3wdi29Sv7NYtMqj8ltg23bzuHg2lfZG+nM8="
     },
+  
     {
       "key": "喵播",
       "name": "喵播┃App",
@@ -304,6 +301,7 @@
       "filterable": 1,
       "ext": "http://111.230.51.151:9696/api.php/app/"
     },
+   
     {
       "key": "mino",
       "name": "mino┃App",
@@ -382,6 +380,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+ 
     {
       "key": "K影",
       "name": "K影院┃App",
@@ -392,6 +391,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
+   
     {
       "key": "Lib",
       "name": "Lib┃直连",
@@ -668,15 +668,17 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "ZXZJ",
-      "name": "在线┃直连",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   {
+            "key": "ZXZJ",
+            "name": "在线┃直连",
+            "api": "csp_Zxzj",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "playerType": 2,
+            "ext": ""
+        },
     {
       "key": "极速资源dd",
       "name": "💦SP┃极速资源",
@@ -853,7 +855,7 @@
       "key": "taopian",
       "name": "🕹️淘片┃采集",
       "type": 1,
-      "api": "https://taopianapi.com/cjapi/sda/vod/json.html",
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -1361,14 +1363,15 @@
       "filterable": 0
     },
     {
-      "key": "csp_Auete",
-      "name": "Auete┃无搜索",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+            "key": "csp_Auete",
+            "name": "Auete┃无搜索",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "playerType": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     {
       "key": "Cokemv",
       "name": "🐼Cokemv(SP)",
@@ -1379,15 +1382,17 @@
       "filterable": 1
     },
     {
-      "key": "csp_CZSPP",
-      "name": "厂长┃直连",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "maHR0cHM6Ly93d3cuY3p6eXZpZGVvLmNvbS8="
-    },
+            "key": "csp_CZSPP",
+            "name": "厂长┃直连",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "searchable": 1,
+            "playerType": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "maHR0cHM6Ly93d3cuY3p6eXZpZGVvLmNvbS8="
+        },
+   
     {
       "key": "NoSearch_csp_DiDuan",
       "name": "低端┃无搜索",
@@ -1406,6 +1411,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
+  
     {
       "key": "NoSearch_csp_BBB",
       "name": "🅱哔哩哔哩(SP)",
@@ -3559,19 +3565,19 @@
             "http://39.134.24.24/PLTV/88888888/224/3221225859/index.m3u8"
           ]
         },
-        {
+   {
           "name": "CCTV发现之旅",
           "urls": [
             "http://150.158.112.123/公众号~玉玉软件库/mg.php?id=fxzl"
           ]
         },
-        {
+ {
           "name": "CGTN",
           "urls": [
             "http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cgtn"
           ]
         },
-        {
+ {
           "name": "CGTN纪录",
           "urls": [
             "http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cgtnjl"
@@ -4893,5 +4899,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "http://cdn.qiaoji8.com/fix241229.jar;md5;e2f6fb5ea2da8edfd8e321f8eb5a8b48"
+  "spider": "http://cdn.qiaoji8.com/fix250118.jar;md5;a55a9c35e5f1022c9a56a5f433201fb7"
 }
